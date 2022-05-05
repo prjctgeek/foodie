@@ -1,20 +1,6 @@
 # Texturist
 
 
-## Reasons for writing this
-
-I thought my wife was a super picky eater.  I love to cook as a hobby, and figured I was up for the challenge.  We had kids.
-Kids have mostly the same food hang-ups. "Learned behaviors" I hear you muttering.  No, some of this pickiness was baked in.  Some of my co-workers in tech, anicdotily,
- have similar food prefernece issues. So I went looking for others comments on a correlation between food texture objections and being on the spectrum.
-
-I found a paper about the impacts of being on the spectrum to health/wellness [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6715205/). It contains some comments 
-from participants about texture that sound eerily familar. Maybe I should write down some of what I've learned cooking for three texture obsessed folks.
-
-So I'm going to coin a phrase here to describe my familie's eating preferences: "texture sensitive".  
-It's not terribly precise, but hopefully does imparts a level of care and empathy that I need to get my family to eat.
-I'm recording recipes that have gone over well, which are mostly mainstream stuff, with a twist to adapt to a loose set of "rules" about texture.  As a foodie, these rules also violate
- what I've learned about good cooking, and so I will put in "coping mechanism" recipes, to serve as side dishes or banned sauces to help the foodie in me enjoy mealtime.
-
 ## Over-arching elements to avoid
 
 #### Sauces
@@ -77,22 +63,3 @@ The other notable exception is mac and cheese.  The cheesey creamy sauce seems t
  specific foods have a strong, positive childhood memory or connetion.  Does that mean some of these objects aren't in any way related to being on the 
  spectrum and are instead just hang-ups from a bad experience?  Likely.
 
-
-
-### Recipes
-
-#### Barbacoa
-
-#### hamburgers
-
-#### Beans/Asperagras/Brussels/Cauliflower
-
-#### potato hash
-
-Boil potatoes
-remove jackets
-cut into bite sized peices
-
-#### Fish and chips
-
-####  

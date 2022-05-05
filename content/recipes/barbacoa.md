@@ -1,6 +1,7 @@
 +++
 title = "Barbacoa"
 date = 2022-05-03
+template = "page.html"
 +++
 
 # Barbacoa

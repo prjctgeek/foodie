@@ -16,11 +16,12 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+toc = true
 navbar_items = [
  { code = "en", nav_items = [
   { url = "$BASE_URL/", name = "Home" },
-  { url = "$BASE_URL/posts", name = "Posts" },
-  { url = "$BASE_URL/overview", name = "Overview" },
+  { url = "$BASE_URL/rules", name = "Rules" },
+  { url = "$BASE_URL/recipes", name = "Recipes" },
  ]},
   { code = "it", nav_items = [
   { url = "$BASE_URL/", name = "Casa" },
@@ -38,21 +39,21 @@ webmanifest = "/icons/site.webmanifest"
 
 # Author details
 [extra.author]
-name = "DeepThought"
+name = "D. Chapman"
 avatar = "/images/avatar.png"
 
 # Social links
 [extra.social]
-email = "<email_id>"
-facebook = "<facebook_username>"
-github = "<github_username>"
-gitlab = "<gitlab_username>"
-keybase = "<keybase_username>"
+email = "prjctgeek+texturist@gmail.com"
+#facebook = "<facebook_username>"
+github = "prjctgeek"
+#gitlab = "<gitlab_username>"
+#keybase = "<keybase_username>"
 linkedin = "<linkedin_username>"
-stackoverflow = "<stackoverflow_userid>"
-twitter = "<twitter_username>"
+#stackoverflow = "<stackoverflow_userid>"
+#twitter = "<twitter_username>"
 instagram = "<instagram_usernaem>"
-behance = "<behance_username>"
+#behance = "<behance_username>"
 
 
 # To add google analytics
@@ -60,9 +61,9 @@ behance = "<behance_username>"
 google = "<your_gtag>"
 
 # To add disqus comments
-[extra.commenting]
-disqus = "<your_disqus_shortname>"
+#[extra.commenting]
+#disqus = "<your_disqus_shortname>"
 
 # To enable mapbox maps
-[extra.mapbox]
-access_token = "<your_access_token>"
+#[extra.mapbox]
+#access_token = "<your_access_token>"
