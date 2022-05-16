@@ -17,7 +17,7 @@ from participants about texture that sound eerily familar. Maybe I should write 
 
 So I'm going to coin a phrase here to describe my familie's eating preferences: "texture sensitive".
 It's not terribly precise, but hopefully does imparts a level of care and empathy that I need to get my family to eat.
-I'm recording recipes that have gone over well, and some that haven't. Most are mainstream recipes, with a twist to adapt to a loose set of "rules" about texture.  As a foodie, these rules violate
+I'm recording recipes that have gone over well, and some that haven't. Most are mainstream recipes, with a twist to adapt to a loose set of [rules](/rules) about texture.  As a foodie, these rules violate
  what I've learned about good cooking, and so I will put in "coping mechanism" add-ons, to serve as side dishes or banned sauces to help the foodie in me enjoy mealtime without resentment. Or just get
  a your favorite pickle.
 
