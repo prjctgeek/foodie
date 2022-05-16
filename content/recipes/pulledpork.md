@@ -7,7 +7,6 @@ categories = ["recipe"]
 tags = ["recipe"]
 +++
 
-# Pulled Pork
 
 In the overview I use pulled pork as an example of "usually dry" food.
 

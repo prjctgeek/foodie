@@ -49,8 +49,8 @@ As many foodies recently, I've experimented cooking with a sous-vide (hot water 
 
 #### Spicy or strong flavors
 
-This area crosses over with acidity. Of course pickles are out of the question, but even mixing in elements like saurkraut on a sandwhich or a
-kimchee flavored soup is a no go. Cumin, anise, and many other flavors are not tolerated.
+This area crosses over with acidity. Of course pickles are out of the question, but even mixing in elements like capers on a sandwhich or a
+salty kalamata olive is a no go. Cumin, anise, and many other flavors are not tolerated.
 
 Indian food, korean food, and many other cuisines are frustratingly out of bounds with this rule.
 
@@ -65,5 +65,6 @@ It seems to break the rules, and it gets devoured whenever we make it.
 The other notable exception is mac and cheese.  The cheesey creamy sauce seems to be a rule breaker.  My working theory is that some of these
  specific foods have a strong, positive childhood memory or connetion.  Does that mean some of these objects aren't in any way related to being on the 
  spectrum and are instead just hang-ups from a bad experience?  Likely.
+
 
 
