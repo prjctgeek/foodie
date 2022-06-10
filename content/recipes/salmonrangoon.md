@@ -1,13 +1,13 @@
 +++
 title = "Salmon Rangoon"
-date = 2022-0527-
+date = 2022-05-27
 
 [taxonomies]
 categories = ["recipe"]
 tags = ["recipe"]
 +++
 
-A much more approachable version of a PF Changes apitizer on of my kids absolutly loves.
+A much more approachable version of a PF Chang's apitizer.
 
 <!-- more -->
 

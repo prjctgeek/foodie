@@ -1,1 +1,5 @@
 <html></html>
+
+{% set image = resize_image(path="content/images/bread.png", width=100, height=100, op=scale) %}
+<img src="{{ image.url }}" /
+~                             
