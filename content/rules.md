@@ -50,9 +50,7 @@ As many foodies recently, I've experimented cooking with a sous-vide (hot water 
 #### Spicy or strong flavors
 
 This area crosses over with acidity. Of course pickles are out of the question, but even mixing in elements like capers on a sandwhich or a
-salty kalamata olive is a no go. Cumin, anise, and many other flavors are not tolerated.
-
-Indian food, korean food, and many other cuisines are frustratingly out of bounds with this rule.
+salty kalamata olive is a no go. Indian food, korean food, and many other cuisines are frustratingly out of bounds with this rule.
 
 Many fish is also in the category, as the smell is just too much. Cod in crunchy fish and chips is fine. Salmon is pushing it, and must be cooked without the skin, or smoked.
 

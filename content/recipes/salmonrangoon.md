@@ -4,7 +4,7 @@ date = 2022-05-27
 
 [taxonomies]
 categories = ["recipe"]
-tags = ["recipe"]
+tags = ["appitizer", "rule breaker","GF"]
 +++
 
 A much more approachable version of a PF Chang's apitizer.
@@ -18,7 +18,7 @@ A much more approachable version of a PF Chang's apitizer.
 - worchishire sauce or soy sauce
 
 
-There are generally two types of smoked salmon, lockes (cold smoked) and reglular, for the 
+There are generally two types of smoked salmon, lockes (cold smoked) and reglular (hot smoke), for the 
 purposes of this, the regular is better. Flake the salmon into a bowl with the cream cheese.
 Splash 2-3 squirts of either worchishire or soy.  Mix well; there should be no large chunks of
  salmon.  Heat 2-3 inches of oil in a large pan to at least 150C (300F).

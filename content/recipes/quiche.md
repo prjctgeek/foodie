@@ -4,7 +4,7 @@ date = 2022-06-10
 
 [taxonomies]
 categories = ["recipe"]
-tags = ["recipe"]
+tags = ["main", "breakfast"]
 +++
 
 

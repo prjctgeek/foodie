@@ -4,7 +4,7 @@ date = 2022-05-03
 
 [taxonomies]
 categories = ["recipe"]
-tags = ["recipe"]
+tags = ["main"]
 +++
 
 I've done many a smoked pork shoulder in my day.  They almost always get devoured, even

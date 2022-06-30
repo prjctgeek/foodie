@@ -4,7 +4,7 @@ date = 2022-05-19
 
 [taxonomies]
 categories = ["recipe"]
-tags = ["recipe", "gf"]
+tags = ["main", "gf"]
 +++
 
 Similar to quiche, but without the crust.  This doessn't break any rules, even though it's not crunchy.
