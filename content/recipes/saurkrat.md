@@ -4,7 +4,7 @@ date = 2022-06-23
 
 [taxonomies]
 categories = ["recipe"]
-tags = ["side", "rule breaker", "vegan","gf"]
+tags = ["side", "foodies only", "vegan","gf"]
 +++
 
 Improvement on a recipe from a cookbook that only has 'kraut

@@ -29,7 +29,7 @@ toc = true
 navbar_items = [
  { code = "en", nav_items = [
   { url = "$BASE_URL/", name = "Home" },
-  { url = "$BASE_URL/rules", name = "Rules" },
+  { url = "$BASE_URL/guidelines", name = "Guidelines" },
   { url = "$BASE_URL/recipes", name = "Recipes" },
  ]},
   { code = "it", nav_items = [

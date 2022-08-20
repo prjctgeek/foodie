@@ -3,7 +3,7 @@ title = "Sriratcha Cucumber Pickles"
 date = 2022-05-03
 [taxonomies]
 categories = ["recipe"]
-tags = ["side", "rule breaker", "vegan","gf"]
+tags = ["side", "foodies only", "vegan","gf"]
 +++
 
 
@@ -18,4 +18,8 @@ They really can rest for as little as 24 hours before enjoying.  The picle juice
 - 1/4 C sriratcha
 - 1 C vinegar
 - 1 T seaseme oil
+- 1 shallot
+- 1 T sugar
+
+Slice the cucumber and shallot thinly using a mandoline or sharp knife.  Mix the vinegar, oil, sugar and sriratcha.
  
