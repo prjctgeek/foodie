@@ -4,7 +4,7 @@ date = 2022-05-27
 
 [taxonomies]
 categories = ["recipe"]
-tags = ["appitizer", "foodies only","GF"]
+tags = ["appitizer", "foodies only","gf"]
 +++
 
 A much more approachable version of a PF Chang's apitizer.

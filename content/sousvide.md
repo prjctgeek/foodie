@@ -17,7 +17,7 @@ will never exceed that temperature.
 ## Why would you do this?
 
 It seals in moisture and flavors, it prevents over-cooking and allows you to pre-cook with precision.
-Also, it scales up well.  I have come home from Costco on the weekend and pre-cooked 4 meals worth of chicken and 1 meal of [hamburgers](recipes/hamburgers)
+Also, it scales up really well.  I have come home from Costco on the weekend and pre-cooked 4 meals worth of chicken and 1 meal of [hamburgers](recipes/hamburgers)
  in the same water bath, cutting week-day preptime dramatically.
 
 ### Cons
@@ -29,7 +29,7 @@ Also, it scales up well.  I have come home from Costco on the weekend and pre-co
 
 ### General observations/expreience
 
-Most sous-vide recipes focus on lean meat, there are other uses...
+Most sous-vide recipes focus on lean meat, there are other uses...but this is where sous vide shines.
 
 #### Good
 
@@ -48,5 +48,5 @@ Most sous-vide recipes focus on lean meat, there are other uses...
 - Don't sous vide fish.  It's like microwaving it. Just don't.
 - Lamb leg: 54C for 24 hours - do not repeat, tough, needs fat melting heat
 - Pork Belly/Bacon: NO. this meat needs fat rendering heat
-- Turkey: 63.5 for 24 hours.  Not worth it, Smoke/roasting still better.
+- Turkey: 63.5 for 24 hours.  Not worth it, Smoke/roasting/deep fry still better.
 - Notice a pattern?  anything that usually is good low and slow cooked, won't be with sous-vide.

@@ -34,7 +34,7 @@ navbar_items = [
  ]},
   { code = "it", nav_items = [
   { url = "$BASE_URL/", name = "Casa" },
-  { url = "$BASE_URL/posts", name = "Messagggi" },
+  { url = "$BASE_URL/it/recette", name = "Recetti" },
  ]}
 ]
 
