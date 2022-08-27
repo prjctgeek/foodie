@@ -26,9 +26,9 @@ tziki. For the purpose of the guidelines, foods can have _some_ acid, it just ca
 One of my other recipes from ["Saving the Seasons"](https://www.amazon.com/Saving-Season-Canning-Pickling-Preserving/dp/0307599485/ref=sr_1_1?crid=DX1RAWC1I7UH&keywords=book+saving+the+seasons&qid=1661002523&sprefix=book+saving+the+season%2Caps%2C309&sr=8-1) is the bistro carrot pickle.
 As a foodie coping with this strange set of restrictions, I have turned to the pickle on the side of the dish as a coping mechanism.
 
-Throughout this site, you'll see the tag: 'foodies only', to denote any recipe that doesn't follow these guidelines.
+Throughout this site, you'll see the tag: '[gross](/tags/gross)', to denote any recipe that doesn't follow these guidelines.
 
-#### Mealy, creamy, squishy
+#### Mealy, creamy, [squishy](/tags/squishy)
 
 This one is hard to pin down.  I first came across it when trying to serve hummas.  Nope, too creamy. Ok, let's try straight up
 garbonzo beans, no spice, no acid.  Nope: "Texture is wrong".  Testing what made beans objectionable, it seems to correlate to size.
@@ -40,29 +40,27 @@ Mashed squash (I like delectica) is a no go. How is this different from mashed p
 Mashed potatoes are ok. No idea why, with enough butter and cream to make them whippable, they should be too creamy.
 One kid doesn't like the texture of rice, while the other one doesn't like potatoes that have skin on, or are sliced too large.
 
+Shrimp.  My wifes says the little "popping" sensation of biting shrimp is just too much.  One kid says that a really heavy breading counter-acts this, but my usual strategy is cutting them in half lengthwise and over-cooking them, making  them "firm".
+
 Tomatoes are too runny/squish in the middle, and often slightly acidic, so two strikes against.
 
-As many foodies recently, I've experimented cooking with a sous-vide (hot water bath) setup.  My family will not tolerate the texture of meat 
- straight out of the sous-vide.  There are a couple things going on here, I believe: one is that the meat (think tenderloin) is too squishy, and this 
- squishyness is associated with being under-done. 
+As many foodies recently, I've experimented with cooking using a [sous-vide](/sousvide) (hot water bath) setup.  My family will not tolerate the texture of meat 
+ straight out of the sous-vide; too "squishy".
 
 
 #### Spicy or strong flavors
 
 This area crosses over with acidity. Of course pickles are out of the question, but even mixing in elements like capers on a sandwhich or a
-salty kalamata olive is a no go. Indian food, korean food, and many other cuisines are frustratingly out of bounds with this rule.
+salty kalamata olive is a no go. Indian food, korean food, and many other cuisines are frustratingly out of bounds with this guideline.
 
 Many fish is also in the category, as the smell is just too much. Cod in crunchy fish and chips is fine. Salmon is pushing it, and must be cooked without the skin, or smoked.
 
 
 #### Unexplainable Exceptions
 
-First exception to these "rules" I still havnen't been able to nail down is [artichoke dip](recipes/artichoke-dip).  It's mostly cream cheese, with jalapeno's and artichoke hearts.
-It seems to break the rules, and it gets devoured whenever we make it.
+First exception to these guidelines I still havnen't been able to nail down is [artichoke dip](recipes/artichoke-dip).  It's mostly cream cheese, with jalapeno's and artichoke hearts.
+It seems to break violate creamy/saucey, but it gets devoured whenever we make it.
 
-The other notable exception is mac and cheese.  The cheesey creamy sauce seems to be a rule breaker.  My working theory is that some of these
+The other notable exception is mac and cheese.  The cheesey creamy sauce should be off limits.  My working theory is that some of these
  specific foods have a strong, positive childhood memory or connetion.  Does that mean some of these objects aren't in any way related to being on the 
  spectrum and are instead just hang-ups from a bad experience?  Likely.
-
-
-

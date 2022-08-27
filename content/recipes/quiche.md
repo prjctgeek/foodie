@@ -26,6 +26,7 @@ A crispy puff-pastry crust helps sell this.
 1. Put down a sheet of parchment paper that's slightly larger than the dish you plan to bake in.  
 1. gently roll out the puff pastry on the parchment, stretching it lengthwise to better fit the high sided caserole dish. I recommend using an 11x7, but a 9x9 should also work.
 1. genltly lift the parchment and lay in the caserole; we're going to bake the quiche _on_ the parchment.
+1. (work in progress) pre-bake the puff pastry. still not certain how far to take this, but the pastry is coming out a  little too squishy.
 1. make sure the edges of the puff pastry extend up enough to prevent the egg from touching the sides.  If it doesn't go high enough, you'll need to roll it out some more or find a different casserole.
 1. sprinkle your protein of choice, making sure it's cut small enough to be 'bite-sized'
 1. evenly sprinkle cheese all over the protien

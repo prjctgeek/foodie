@@ -18,8 +18,7 @@ But when I talk about doing home canning at work/social interactions, everyone s
 ### Favorite recepies that need recording
 
 - Jam. Strawberry-rhubarb is my childhood favorite, and I still make it all the time.
-- Pickles
+- Carrot pickles
 - Pasta Sauce
 - Pie fillings
-
 

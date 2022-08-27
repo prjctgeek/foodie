@@ -1,5 +1,5 @@
 +++
-title = "Texturist"
+title = "Foodie meets Pickie"
 date = 2022-05-01
 +++
 
@@ -13,11 +13,21 @@ Kids have mostly the same food hang-ups. "Learned behaviors" I hear you mutterin
  have similar food prefernece issues.  I started coming up with some ["guidelines"](/guidelines) to help me make meals that weren't gag-inducing.
 
 I went looking for others comments on a correlation between food texture objections and neurodivergence.  I found a [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6715205/) about the impacts of being on the spectrum to health/wellness. It contains some comments
-from participants about texture that sound eerily familar. Maybe I should write down some of what I've learned cooking for three texture obsessed folks.
+from participants about texture that sound eerily familar. Maybe I should write down some of what I've learned cooking for three texture obsessed folks. (My wife, on reading this, tells me the term is "sensory sensitivity")
 
 I'm recording recipes that have gone over well, and some that haven't. Most are mainstream recipes, with a twist to adapt to the [guidelines](/guidelines) about texture.  As a foodie, some of these violate
- what I've learned about good cooking, and so I will put in coping recipes with the tag [fooies only](/tags/foodies-only), to serve as side dishes or banned sauces to help the foodie in me enjoy mealtime without resentment.
+ what I've learned about good cooking, and so I will put in coping recipes with the tag "[gross](/tags/gross)", to serve as side dishes or banned itesm to help the foodie in me enjoy mealtime without resentment.
 
+### Fun tag links
+
+- [gross](/tags/gross)
+- [crunchy](/tags/crunchy)
+- [appitizers](/tags/appitizers)
+- [breakfast](/tags/breakfast)
+- [lunch](/tags/lunch)
+- [dinner](/tags/dinner)
+- [desert](/tags/dessert)
+- [canning](/tags/canning)
 
 ### Techniques
 

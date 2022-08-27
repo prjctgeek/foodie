@@ -3,7 +3,7 @@ title = "Sriratcha Cucumber Pickles"
 date = 2022-05-03
 [taxonomies]
 categories = ["recipe"]
-tags = ["side", "foodies only", "vegan","gf"]
+tags = ["side", "gross", "vegan","gf"]
 +++
 
 
