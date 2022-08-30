@@ -17,7 +17,7 @@ _based on/credit to_ [Practical Self Reliance](https://practicalselfreliance.com
 
 - 5.6L sliced Peaches
 - 40% Sugar (by weight) 
-- Clear jel cook type
+- Clear jell cook type
 - Peach juice/water
 - 1 tsp cinnamon
 - 1 tsp almond extract
@@ -32,9 +32,9 @@ Put the peaches into a large pot on low heat. Add 40% sugar by weight (so 1 kilo
 
 Simmer the peaches and sugar for 5 mins on a simmer - the goal is to incorporate the peach juices into the liquid.
 
-Strain peaches from the liquid and put them into jars, leaving about half the jar for liquid and headspeace.
+Strain peaches from the liquid and put them into jars, leaving about half the jar for liquid and head space.
 
-Add the jel powder to the liquid slowly and bring to boil, making sure not to create lumps by dumping it in too fast.  Add lime juice just before pouring into the jars. This is critical to the canning process (unless you have a canning pressure cooker) so err on the side of too much.
+Add the jell powder to the liquid slowly and bring to boil, making sure not to create lumps by dumping it in too fast.  Add lime juice just before pouring into the jars. This is critical to the canning process (unless you have a canning pressure cooker) so err on the side of too much.
 
 Finger tighten the jars and process in a water bath for 10-15.
 

@@ -1,5 +1,5 @@
 +++
-title = "Biblography"
+title = "Bibliography"
 date = 2022-08-20
 
 [taxonomies]

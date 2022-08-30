@@ -9,7 +9,7 @@ tags = ["main", "meat"]
 
 I've done many a smoked pork shoulder in my day.  They almost always get devoured, even
  with no sauce (see the rules). My pattern is: 7 day dry age, marinade in: an acid (usually apple cider vinegar),
- a salt solution (usually soysauce), with some herbs. Smoke for four hours with pecan chips at 250F.  Move to the oven
+ a salt solution (usually soy sauce), with some herbs. Smoke for four hours with pecan chips at 250F.  Move to the oven
  at 325 for 4 more hours.
 
 <!-- more -->
@@ -30,7 +30,7 @@ mouth, but with a little cheese, could be toned down.
 - 1 head of garlic
 - 10 cloves
 - 4 bay leaves
-- 500mL stock
+- 500ml stock
 - 200gr pink salt
 - juice of 3-4 limes
 
@@ -46,7 +46,7 @@ Place in a marinade bag or large bowl, fat cap down.  Pour marinade all over it 
  the marinade bag or cover with a lid- we don't want it to dry any more.
 Let rest in fridge for 24-48 hours.
 
-Move the pork to an instantpot/pressure cooker fat cap up.  Pour the marinade over it to cover.  Pressure cook for 3 hours.
+Move the pork to an instant pot/pressure cooker fat cap up.  Pour the marinade over it to cover.  Pressure cook for 3 hours.
 
 Remove the meat from the pot and pull it apart, removing the bone, fat and any connective tissue.
 

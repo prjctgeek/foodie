@@ -1,20 +1,28 @@
 +++
-title = "Title"
+title = "Peach wine"
 date = "1970-01-01"
 
 [taxonomies]
 categories = ["recipe"]
-tags = ["side", "main", "dessert", "foodies only", "vegan","gf"]
+tags = ["side", "dessert", "gross", "vegan","gf"]
 +++
 
 
-Brief recipe blurb
 
 <!-- more -->
 
 ### Ingredients
 
+- Peaches
+- Sugar
+- Champaign yeast
+- water
+- rasins
+- 1 C strong black tea
+
 ### Steps
+
+
 
 
 ### Credit
