@@ -39,7 +39,7 @@ Most sous-vide recipes focus on lean meat, there are other uses...but this is wh
 - Pasteurized eggs: 56C for 30 minutes.  Safe to eat raw cookie dough is the best.
 - [Hamburgers](recipes/hamburgers): 55C for one hour
 - Chicken breasts/thighs: 55C gets you close enough, with a couple minutes of pan time for the right texture
-- Mash potatoes: 90c for 2hours (not worth it, imo)
+- Mash potatoes: 90c for 2hours (not worth it, IMO)
 - Blanched Peaches: 80c for 2min.  This is to loosen the skins for canning.
 - Corn: 82C for 30 min. This was surprisingly good
 
