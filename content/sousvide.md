@@ -18,7 +18,7 @@ will never exceed that temperature.
 
 It seals in moisture and flavors, it prevents over-cooking and allows you to pre-cook with precision.
 Also, it scales up really well.  I have come home from Costco on the weekend and pre-cooked 4 meals worth of chicken and 1 meal of [hamburgers](recipes/hamburgers)
- in the same water bath, cutting week-day preptime dramatically.
+ in the same water bath, cutting week-day prep time dramatically.
 
 ### Cons
 
@@ -27,14 +27,14 @@ Also, it scales up really well.  I have come home from Costco on the weekend and
 - The texture is just wrong.  Meat will always need a sear in a very hot pan.
 
 
-### General observations/expreience
+### General observations/experience
 
 Most sous-vide recipes focus on lean meat, there are other uses...but this is where sous vide shines.
 
 #### Good
 
 - Pork loin: 56c for 1 hour and pan sear medallions for 2 min a side to get the texture right
-- Steak: 55C with a 2 min sear per side when ready to eat. For those wanting well-done, conside slicing up the steak a bit.
+- Steak: 55C with a 2 min sear per side when ready to eat. For those wanting well-done, consider slicing up the steak a bit.
 - Hollandaise: butter and egg yoke at 65C for 20min, then blend
 - Pasteurized eggs: 56C for 30 minutes.  Safe to eat raw cookie dough is the best.
 - [Hamburgers](recipes/hamburgers): 55C for one hour

@@ -17,7 +17,7 @@ _based on/credit to_ [Practical Self Reliance](https://practicalselfreliance.com
 
 - 5.6L sliced Peaches
 - Sugar 
-- Clear jel cook type
+- Clear jell cook type
 - Peach juice/water
 - 1 tsp cinnamon
 - 1 tsp almond extract
@@ -29,6 +29,6 @@ _based on/credit to_ [Practical Self Reliance](https://practicalselfreliance.com
 - peel, slice peaches
 - weight and add liquid, quick simmer
 - remove peaches, make gel
-- Comment about acidity- can we measure the ph?
+- Comment about acidity- can we measure the pH?
 - put peaches back in, bring to a boil, can
 - water bath for 10-15
