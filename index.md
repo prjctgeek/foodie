@@ -56,7 +56,7 @@ Many fish is also in the category, as the smell is just too much. Cod in crunchy
 
 #### Unexplainable Exceptions
 
-First exception to these "rules" I still havnen't been able to nail down is artichoke dip.  It's mostly cream cheese, with jalapeno's and artichoke hearts.
+First exception to these guidlines I still havnen't been able to nail down is artichoke dip.  It's mostly cream cheese, with jalapeno's and artichoke hearts.
 It seems to break the rules, and it gets devoured whenever we make it.
 
 The other notable exception is mac and cheese.  The cheesey creamy sauce seems to be a rule breaker.  My working theory is that some of these

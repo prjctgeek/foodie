@@ -28,7 +28,7 @@ My spin on this is to finish off the meat in the oven. Those who are familiar wi
 - bay leaf
 - paprika
 - chili powder
-- several cloves of crushed garlic
+- several cloves of crushed garlic 
 
 ### Prep steps
 

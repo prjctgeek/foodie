@@ -10,7 +10,7 @@ tags = ["technique"]
 
 ### What ?
 
-Someday, I'll figure out how-to get this blogging software to auto-populate metric/imperial and serving counts automatically.  Until then, recording some useful conversions here.
+Someday, I'll figure out hoot get this blogging software to auto-populate metric/imperial and serving counts automatically.  Until then, recording some useful conversions here.
 
 ### Why?
 

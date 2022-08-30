@@ -1,6 +1,6 @@
 # The URL the site will be built for
 base_url = "https://prjctgeek.github.io/textureist"
-title = "Texturists"
+title = "Foodie meets Pickie"
 description = "Food blog for those cooking for texture sensitive"
 default_language = "en"
 minify_html = false
