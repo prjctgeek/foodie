@@ -8,14 +8,14 @@ tags = ["technique"]
 
 
 Let's be honest, my kids hate veggies.  They'll really only eat green beans
-prepaired this way.  But the practice of charring, then steaming has
+prepared this way.  But the practice of charring, then steaming has
  consistently turned out veggies my wife will eat.
 
 <!-- more -->
 
 
-### Grean Beans
+### Green Beans
 
-### Brussel Sprouts
+### Brussels Sprouts
 
 ### Cauliflower
