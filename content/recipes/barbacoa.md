@@ -42,11 +42,12 @@ Wash off the salt by gentle rubbing it all over with a wet hand.
 
 (Optional) Smoke for 4 hours at 225F with pecan chips. If you don't want to  bother, add a few splashes of liquid smoke to the marinade.
 
-Place in a marinade bag or large bowl, fat cap down.  Pour marinade all over it and add water or more stock to cover. Tie
- the marinade bag or cover with a lid- we don't want it to dry any more.
-Let rest in fridge for 24-48 hours.
+Make the marinade by blending the chipotle, adobo, onion, garlic, salt, lime juice and cloves together.
 
-Move the pork to an instant pot/pressure cooker fat cap up.  Pour the marinade over it to cover.  Pressure cook for 3 hours.
+Place in a marinade bag or large bowl, fat cap down.  Pour marinade all over it and add water or more stock to cover, as well as bay leaves. Tie
+ the marinade bag or cover with a lid- we don't want it to dry any more. Let rest in fridge for 24-48 hours.
+
+Move the pork to an instant pot/pressure cooker fat cap up.  Pour the marinade over it to cover.  Pressure cook for 3 hours (instant pot) or 1 hour at 15lbs of pressure.
 
 Remove the meat from the pot and pull it apart, removing the bone, fat and any connective tissue.
 

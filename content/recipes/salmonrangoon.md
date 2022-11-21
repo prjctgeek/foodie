@@ -4,11 +4,7 @@ date = 2022-05-27
 
 [taxonomies]
 categories = ["recipe"]
-<<<<<<< HEAD
-tags = ["appetizer", "foodies only","gf"]
-=======
 tags = ["appetizer", "gross","gf"]
->>>>>>> edit_revise
 +++
 
 A much more approachable version of a PF Chang's appetizer.
