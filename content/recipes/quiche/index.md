@@ -12,6 +12,9 @@ A crispy puff-pastry crust helps sell this.
 
 <!-- more -->
 
+
+<img src=quiche.jpg alt="quiche" width="200">
+
 - 1 sheet of pre-made puff-pastry, defrosted
 - 1 can whole artichoke hearts
 - cooked bacon bits, prosciutto or cooked mild sausage

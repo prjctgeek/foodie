@@ -34,8 +34,6 @@ I'm recording recipes that have gone over well, and some that haven't. Most are 
 General thoughts on some over-all techniques I've tried:
 
 - [Sous Vide](/sousvide)
-- [Smoker](/smoking)
 - [Home Canning](/canning)
 - [Wine Making](/wine)
-- [Conversion Ratios](/conversions)
 
