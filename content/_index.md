@@ -3,9 +3,6 @@ title = "Foodie meets Pickie"
 date = 2022-05-01
 +++
 
-![Bread](bread_small.png "Bread")
-
-
 ## Reasons for writing this
 
 I thought my wife was a super picky eater.  I love to cook as a hobby, and figured I was up for the challenge.  We had kids.
@@ -18,6 +15,11 @@ from participants about texture that sound eerily familiar. Maybe I should write
 I'm recording recipes that have gone over well, and some that haven't. Most are mainstream recipes, with a twist to adapt to the [guidelines](/guidelines) about texture.  As a foodie, some of these violate
  what I've learned about good cooking, and so I will put in coping recipes with the tag "[gross](/tags/gross)", to serve as side dishes or banned items to help the foodie in me enjoy mealtime without resentment.
 
+<figure>
+  <img src="pomanna.jpg" alt="pom anna" width="250">
+  <figcaption> Pommes Anna</figcaption>
+  </figure>
+
 ### Fun tag links
 
 - [gross](/tags/gross)
@@ -28,6 +30,8 @@ I'm recording recipes that have gone over well, and some that haven't. Most are 
 - [dinner](/tags/dinner)
 - [desert](/tags/dessert)
 - [canning](/tags/canning)
+
+
 
 ### Techniques
 

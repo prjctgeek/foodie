@@ -16,6 +16,9 @@ Another area where this becomes an issue is dishes where the meat is the star of
 For example, pulled pork.  It's almost always on the dry side, and you pick the sauce based on your preferences to add both flavor and a texture contrast. 
 When no sauce is acceptable, because of it's texture, flavor must be imparted into the meat without a sauce. This is deceptively difficult when adapting many recipes to the texture sensitive. 
 
+
+---
+
 #### Acidity and fermentation
 
 In ["Salt, fat, acid, heat"](https://www.amazon.com/Salt-Fat-Acid-Heat-Mastering-ebook/dp/B01HMXV0UQ/ref=sr_1_1?crid=2161LOJRKFXM9&keywords=salt%2C+fat%2C+acid%2C+heat&qid=1651765830&sprefix=salt%2C+fat%2Caps%2C268&sr=8-1), Samine put acid in the title for a reason.  Acidity isn't just for pickles and margaritas,
@@ -27,6 +30,9 @@ One of my other recipes from ["Saving the Seasons"](https://www.amazon.com/Savin
 As a foodie coping with this strange set of restrictions, I have turned to the pickle on the side of the dish as a coping mechanism.
 
 Throughout this site, you'll see the tag: '[gross](/tags/gross)', to denote any recipe that doesn't follow these guidelines.
+
+
+---
 
 #### Mealy, creamy, [squishy](/tags/squishy)
 
@@ -48,6 +54,8 @@ As many foodies recently, I've experimented with cooking using a [sous-vide](/so
  straight out of the sous-vide; too "squishy".
 
 
+---
+
 #### Spicy or strong flavors
 
 This area crosses over with acidity. Of course pickles are out of the question, but even mixing in elements like capers on a sandwich or a
@@ -55,6 +63,8 @@ salty kalamata olive is a no go. Indian food, Korean food, and many other cuisin
 
 Many fish is also in the category, as the smell is just too much. Cod in crunchy fish and chips is fine. Salmon is pushing it, and must be cooked without the skin, or smoked.
 
+
+---
 
 #### Unexplained Exceptions
 

@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="section">
+
+  <div class="container">
+    <div class="columns">
+      <div class="column is-8 is-offset-2">
+
+        <div class="has-text-centered">
+          <h1 class="title is-2">{{ section.title }}</h1>
+          <p class="subtitle is-4">{{ section.description }}</p>
+        </div>
+
+        <div class="sidebar">
+          <section id="text-12" class="widget widget_text">
+            <div class="widget-wrap">
+              <p class="body-text"> Sidebar content goes here (make this a variable)</p>
+            </div>
+          </section>
+        </div>
+        <div class="content">
+          {{ section.content | safe }}
+        </div>
+      </div>
+      {% if section.extra.toc %}
+      <div class="column is-2 is-hidden-mobile">
+        <aside class="menu" style="position: sticky; top: 48px">
+          <p class="heading has-text-weight-bold">Contents</p>
+          <ul class="menu-list">
+            {% for h1 in page.toc %}
+            <li>
+              <a id="link-{{h1.id}}" class="toc is-size-7 {% if loop.first %}is-active{% endif %}"
+                href="{{ h1.permalink | safe }}">
+                {{ h1.title }}
+              </a>
+              {% if h1.children %}
+              <ul>
+                {% for h2 in h1.children %}
+                <li>
+                  <a id="link-{{h2.id}}" class="toc is-size-7" href="{{ h2.permalink | safe }}">
+                    {{ h2.title }}
+                  </a>
+                </li>
+                {% endfor %}
+              </ul>
+              {% endif %}
+            </li>
+            {% endfor %}
+          </ul>
+        </aside>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</section>
+{% endblock %}

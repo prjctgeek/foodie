@@ -18,12 +18,12 @@ Served as a common side, it's crunchy, cheesy, and garlicky
 - 2-3 cloves of garlic
 - 1 stick Butter or Ghee
 
-Chop the garlic into small chunks
-Melt the butter in ramekin
-Let the garlic steep a few minutes in the hot butter
+Chop the garlic into small chunks.
+Melt the butter in a ramekin and let the garlic steep a few minutes in the hot butter
 
 If using pizza dough, cut into palm sized chunks and roll out into long strands, then flatten on a cookie sheet.
-Spread garlic and butter over carb choice
-sprinkle liberally with grated Parmesan.
 
-put in the oven at 350 for 10 min or until Parmesan just starts to brown
+Spread garlic and butter over carb choice sprinkle liberally with grated Parmesan. My family does not approve of the parmesan on top, ymmv.
+
+Put in the oven at 350 for 10 min or until Parmesan just starts to brown
+

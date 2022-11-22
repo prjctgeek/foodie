@@ -10,6 +10,8 @@ tags = ["main", "gf"]
 Similar to quiche, but without the crust.
 <!-- more -->
 
+<img src="picture1.jpg" width=250>
+
 Frittata: 
 - bacon (optional)
 - 1 medium onion

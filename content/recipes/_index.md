@@ -1,7 +1,7 @@
 +++
 title = "Posts" 
-description = "Recipe posts accumulated over the time." 
-sort_by = "date" 
+description = "Recipes accumulated over the time." 
+sort_by = "title" 
 paginate_by = 5 
 +++
 

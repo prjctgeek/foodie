@@ -10,16 +10,20 @@ tags = ["side", "gross", "vegan","gf"]
 Excellent addition to a salad, and the brine can act as the acid. 
 
 <!-- more -->
-These are 'refrigerator pickles', not needing a water bath or fermentation.
-They really can ~~rest~~ for as little as 24 hours before enjoying.  The pickle juice
- can actually act as the vinegar in an oil and vinegar dressing on a simple salad.
 
-- 1 cucumber, sliced thin on a mandolin
+These are 'refrigerator pickles', not needing a water bath or fermentation.
+The pickle juice can actually act as the vinegar in an oil and vinegar dressing on a simple salad.
+
+- 1 english or 4-5 persion cucumbers, sliced thin on a mandolin
 - 1/4 C Sriratcha
 - 1 C vinegar
 - 1 T sesame oil
 - 1 shallot
 - 1 T sugar
 
-Slice the cucumber and shallot thinly using a mandolin or sharp knife.  Mix the vinegar, oil, sugar and Sriratcha.
+Slice the cucumber and shallot thinly using a mandolin or sharp knife.  Mix the vinegar, oil, sugar and Sriratcha. 
+
+Place the cucumbers and shallots in layers in a mason jar.  Pour the brine over, and work out air bubbles by tapping or using a chopstick.
+
+Place in the fridge for a minimum of 24 hours.
  

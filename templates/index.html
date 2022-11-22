@@ -6,10 +6,19 @@
     <div class="has-text-centered">
       <h1 class="title is-2">{{ section.title }}</h1>
       <p class="subtitle is-4">{{ section.description }}</p>
+      {% if config.extra.author.avatar == "true" %}
+      <figure class="image is-flex is-justify-content-center is-align-items-center">
+        <img class="is-rounded" src="{{ config.extra.author.avatar }}" style="max-width: 192px" />
+      </figure>
+      {% endif %}
+      {% if config.extra.social == "true" %}
+      {{ macros:: social_links( social_config=config.extra.social) }}
+      {% endif %}
     </div>
-    <div class="content">
+    <div class="content is-black">
       {{ section.content | safe }}
     </div>
   </div>
 </section>
 {% endblock %}
+

@@ -37,6 +37,14 @@ navbar_items = [
   { url = "$BASE_URL/it/recette", name = "Recetti" },
  ]}
 ]
+chart.enabled = true
+mermaid.enabled = true
+
+[extra.author]
+name = ""
+avatar = ""
+
+[extra.social]
 
 # Add links to favicon, you can use https://realfavicongenerator.net/ to generate favicon for your site
 [extra.favicon]
@@ -46,33 +54,12 @@ apple_touch_icon = "/icons/apple-touch-icon.png"
 safari_pinned_tab = "/icons/safari-pinned-tab.svg"
 webmanifest = "/icons/site.webmanifest"
 
-# Author details
-[extra.author]
-name = "D. Chapman"
-avatar = "/images/avatar.png"
-
-# Social links
-[extra.social]
-email = "prjctgeek+texturist@gmail.com"
-#facebook = "<facebook_username>"
-github = "prjctgeek"
-#gitlab = "<gitlab_username>"
-#keybase = "<keybase_username>"
-linkedin = "<linkedin_username>"
-#stackoverflow = "<stackoverflow_userid>"
-#twitter = "<twitter_username>"
-instagram = "<instagram_usernaem>"
-#behance = "<behance_username>"
-
 
 # To add google analytics
 [extra.analytics]
 google = "<your_gtag>"
 
-# To add disqus comments
-#[extra.commenting]
-#disqus = "<your_disqus_shortname>"
-
 # To enable mapbox maps
 #[extra.mapbox]
 #access_token = "<your_access_token>"
+

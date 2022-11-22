@@ -1,11 +1,13 @@
 +++
 title = "Artichoke dip"
 date = 2022-05-03
-
+template = "recipe.html"
 [taxonomies]
-categories = ["recipe"]
+categories = ["recipe", "appitizers"]
 tags = ["appetizer","squishy"]
+
 +++
+
 
 
 A quintessential potluck item from decades past, it's easy to assemble, travels well and can be reheated easily.
