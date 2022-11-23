@@ -4,7 +4,7 @@ date = 2022-05-19
 
 [taxonomies]
 categories = ["recipe"]
-tags = ["main", "gf"]
+tags = ["breakfast", "appetizer"]
 +++
 
 Similar to quiche, but without the crust.

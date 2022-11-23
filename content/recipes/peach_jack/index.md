@@ -4,7 +4,7 @@ date = "1970-01-01"
 
 [taxonomies]
 categories = ["recipe"]
-tags = ["side", "dessert", "gross", "vegan","gf"]
+tags = ["dessert", "gross"]
 +++
 
 "Jacking", or freeze distilation, creates a fortified wine, which in the case of peaches, really preserves the taste of summer.
@@ -13,10 +13,10 @@ tags = ["side", "dessert", "gross", "vegan","gf"]
 
 ### Ingredients
 
-- box of Peaches (prefer free-stones like coral star)
+- Box of Peaches (prefer free-stones like coral star)
 - Sugar
-- Champaign yeast (Red star)
-- rasins
+- 1 packet Champaign yeast (Red star)
+- 4-5 rasins
 - 1 C strong black tea
 
 ### Steps
@@ -38,7 +38,7 @@ Primary fermentaiton should take around 30-45 days, depending on the temperature
 Most wine recipes call for racking and secondary fermentation, and while we're still learning, the two batches we've made have never produced any gas durring secondary.  We're suggesting skipping secondary and racking, for jacked wine,
 we've noticed this doesn't really add anything- the straining process removes some of the nasty bits and because we skinned the fruit, there isn't anything to clog up the strainer.
 
-For jacking, measure out enough slurry to fill your strainer.  In the photo, it holds 2 liters. So working in batches, freeze the slurry, then place in a strainer over a clear container with measuring lines. We're looking for 50% of the liquid to be alchahol and syrup, or 1 liter. We've been discarding the frozen slurry and bottling the liquid that passed through the strainer. 
+For jacking, measure out enough slurry to fill your strainer.  In the photo, it holds 2 liters. So working in batches, freeze the slurry, then place in a strainer over a clear container with measuring lines. We're looking for 50% of the liquid to be alchahol and syrup, or 1 liter. We've been discarding the frozen slurry and bottling the liquid that passed through the strainer, but it feels like there should be a use for the peach water (work in progress). 
 
 <img src="jacking.jpg" width=200>
 
@@ -47,8 +47,8 @@ For jacking, measure out enough slurry to fill your strainer.  In the photo, it 
 
 We got around 4 liters of Peach Jack from a box of peaches.  ABV and sugar levels still need measuring...
 
-
+<img src="final.jpg" width=200>
 
 ### Credit
 
-Starting point for this was [Practical Selfreliance](https://practicalselfreliance.com/peach-wine/)
+Starting point for this was [Practical Selfreliance](https://practicalselfreliance.com/peach-wine/).

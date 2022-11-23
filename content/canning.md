@@ -15,6 +15,8 @@ There are many articles about canning, and I mostly learned it from my mother/gr
 
 But when I talk about doing home canning at work/social interactions, everyone seems surprised at this knowledge.
 
+For the purposes of texture though, canned food is usually a hard pass, unless it is an ingredient to something else.
+
 ### Favorite recipes that need recording
 
 - Jam. Strawberry-rhubarb is my childhood favorite, and I still make it all the time.

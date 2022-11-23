@@ -4,7 +4,6 @@ date = 2022-05-03
 
 [taxonomies]
 categories = ["technique"]
-tags = ["technique"]
 +++
 
 
@@ -17,7 +16,7 @@ will never exceed that temperature.
 ## Why would you do this?
 
 It seals in moisture and flavors, it prevents over-cooking and allows you to pre-cook with precision.
-Also, it scales up really well.  I have come home from Costco on the weekend and pre-cooked 4 meals worth of chicken and 1 meal of [hamburgers](recipes/hamburgers)
+Also, it scales up really well.  I have come home from the store on the weekend and pre-cooked 4 meals worth of chicken and 1 meal of [hamburgers](recipes/hamburgers)
  in the same water bath, cutting week-day prep time dramatically.
 
 ### Cons

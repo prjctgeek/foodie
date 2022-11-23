@@ -3,7 +3,7 @@ title = "Sriracha Cucumber Pickles"
 date = 2022-05-03
 [taxonomies]
 categories = ["recipe"]
-tags = ["side", "gross", "vegan","gf"]
+tags = ["side", "gross"]
 +++
 
 
@@ -23,7 +23,7 @@ The pickle juice can actually act as the vinegar in an oil and vinegar dressing 
 
 Slice the cucumber and shallot thinly using a mandolin or sharp knife.  Mix the vinegar, oil, sugar and Sriratcha. 
 
-Place the cucumbers and shallots in layers in a mason jar.  Pour the brine over, and work out air bubbles by tapping or using a chopstick.
+Place the cucumbers and shallots in alternating layers in a mason jar.  Pour the brine over, and work out air bubbles by tapping or using a chopstick.
 
 Place in the fridge for a minimum of 24 hours.
  

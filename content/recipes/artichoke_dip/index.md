@@ -3,7 +3,7 @@ title = "Artichoke dip"
 date = 2022-05-03
 template = "recipe.html"
 [taxonomies]
-categories = ["recipe", "appitizers"]
+categories = ["recipe"]
 tags = ["appetizer","squishy"]
 
 +++

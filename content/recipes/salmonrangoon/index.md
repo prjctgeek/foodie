@@ -4,7 +4,7 @@ date = 2022-05-27
 
 [taxonomies]
 categories = ["recipe"]
-tags = ["appetizer", "gross","gf"]
+tags = ["appetizer", "gross","crunchy"]
 +++
 
 A much more approachable version of a PF Chang's appetizer.

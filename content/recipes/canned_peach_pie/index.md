@@ -4,7 +4,7 @@ date = "2022-08-20"
 
 [taxonomies]
 categories = ["recipe"]
-tags = ["dessert","vegan"]
+tags = ["dessert"]
 +++
 
 By doing some of the prep at canning time, these peaches should be easier to use up.

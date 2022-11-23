@@ -1,6 +1,6 @@
 # foodie
 
-A blog to keep track of some of my recipes meant for family with food texture issues.
+A blog to keep track of some of my recipes.
 
 ---
 
