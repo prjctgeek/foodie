@@ -44,6 +44,9 @@ Let it ferment for ~2 weeks, then test it and put in the fridge.
 General advice is 6 months. Mine never lasts that long.
 
 
+
+<img src="purple.jpg" alt="kraut jar" width=250>
+
 ### How to use saurkraut?
 
 - Reuben sandwhiches
