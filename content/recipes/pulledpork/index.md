@@ -4,15 +4,15 @@ date = 2021-01-01
 
 [taxonomies]
 categories = ["recipe"]
-tags = ["main","meat"]
+tags = ["main","meat","dry"]
 +++
 
 
 In the overview we use pulled pork as an example of "usually dry" food.
 
-My spin on this, which will offend purists, is to finish off the meat in the oven. We still prefer [barbacoa](../barbacoa) to this recipe.
-
 <!-- more -->
+
+My spin on this, which will offend purists, is to finish off the meat in the oven. We still prefer [barbacoa](../barbacoa) to this recipe.
 
 
 ### Ingredients
@@ -32,6 +32,8 @@ My spin on this, which will offend purists, is to finish off the meat in the ove
 Put the shoulder in a high sided casserole. Rub all over with pink salt, focusing on the non-fat cap sides.
 
 Place uncovered in the fridge for 7 days, flipping over once half way through. You may want to drain the liquid after 24 hours.  
+
+<img src="picture1.jpg" width=250>
 
 Place in a large container or marination bag and add: 400ml of an acid (usually apple cider vinegar), a 200ml of a salt solution (usually soy sauce), the herbs, and then water to cover.
 Make sure the meat is completely submerged, and put back in the fridge for 24-48 hours.

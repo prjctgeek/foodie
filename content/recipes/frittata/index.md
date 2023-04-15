@@ -4,7 +4,7 @@ date = 2022-05-19
 
 [taxonomies]
 categories = ["recipe"]
-tags = ["breakfast", "appetizer"]
+tags = ["breakfast", "dry", "crunchy"]
 +++
 
 Similar to quiche, but without the crust.
@@ -17,17 +17,17 @@ Frittata:
 - 1 medium onion
 - 10 eggs
 - splash of half and half
-- Parmesan
-- mozzarella
-- basil
-- roasted artichoke hearts
+- Parmesan cheese
+- mozzarella cheese
+- fresh basil
+- can of artichoke hearts
 
 
 Set the oven to 400 F to pre-heat
 
 Halve some artichoke hearts and place on a cookie sheet.  Place in the oven while it's pre-heating
 
-Using a 10 inch cast iron pan (4 servings) , brown/render diced bacon.
+Using a 10 inch cast iron pan (for 4 servings) , brown/render diced bacon.
 Scoop out the bacon, leaving the fat in the pan.  Sweat the onions and garlic in the 
 rendered bacon fat for a few minutes.
 

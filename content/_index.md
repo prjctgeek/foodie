@@ -1,21 +1,30 @@
 +++
-title = "Foodie meets Pickie"
+title = "Ewwww"
 date = 2022-05-01
 +++
 
-## Why?
+## Hangups
 
 My wife is a super picky eater.  I love to cook as a hobby, and figured I was up for the challenge.  We had kids.
-Kids have mostly the same food hang-ups. "Learned behaviors" I hear you muttering.  No, some of this pickiness was baked in.  Some of my co-workers in tech, anecdotally, have similar food preference issues.  We started coming up with some ["guidelines"](/guidelines) to help me make meals that weren't gag-inducing.
+Kids have mostly the same food hang-ups. "Learned behaviors" I hear you muttering.  No, some of this pickiness was baked in.  Some of my co-workers in tech, anecdotally, have similar food  issues.  We started coming up with some ["guidelines"](/guidelines) to help me make meals that weren't gag-inducing. This site is just a random collection of some of the recipes that went over well and some that didn't.
 
-Being curious about these habbits, we went looking for a correlation between food texture objections and neurodivergence.  We found a [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6715205/) about the impacts of being on the spectrum to health and wellness. It contains some comments
-from participants about texture that sound familiar. Maybe we should write down some of what we've learned cooking for three "sensory sensitivite" folks. Or maybe it's just nice to have an online collection of recipes.
+On my journey to understand what's going on, I came across the term to capture this: "sensory aversion".
+### Sensory Aversion
 
 
-## What
+There seems to be a correlation between food texture issues and neurodivergence; affecting those that might not (yet) think of themselves as neurodivergent.
+Coming to terms with this idea was helpful for me. Here are some more articles on the topic:
 
-We're recording recipes that have gone over well, and some that haven't. Most are mainstream recipes, with a twist to adapt to our [guidelines](/guidelines) about texture.  As a foodie, some of these violate
- what I've learned about good cooking, and so I will put in coping recipes with the tag "[gross](/tags/gross)", to serve as side dishes or banned items to help the foodie in me enjoy mealtime without resentment.
+- Autism and Food Aversion [https://otsimo.com/en/how-to-get-child-to-eat/](https://otsimo.com/en/how-to-get-child-to-eat/)
+- This tastes weird [https://brignews.com/2021/10/08/this-tastes-weird-neurodiverse-people-taste-and-texture/](https://brignews.com/2021/10/08/this-tastes-weird-neurodiverse-people-taste-and-texture/)
+- Sensory food aversion [https://www.meganboitano.com/blog/sensory-food-aversion-refusing-textures](https://www.meganboitano.com/blog/sensory-food-aversion-refusing-textures)
+
+
+
+### Privacy call out
+
+We don't use tracking pixels, cookies, or do any analytics outside of what GitHub provides. This site is statically generated with [zola](https://www.getzola.org/).
+For specifics on GitHub pages privacy policy, see [GitHub Pages data collection](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection) and GitHub's overall [privcay statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
 <figure>
   <img src="pomanna.jpg" width="250">
@@ -24,14 +33,24 @@ We're recording recipes that have gone over well, and some that haven't. Most ar
 
 _NOTE:_ the Pommes Anna did not go over well, so while it's pretty- not including a recipe for it.
 
-### Quick tag links
+#### Quick texture tags
 
-- [gross](/tags/gross)
-- [crunchy](/tags/crunchy)
+- [squishy](/tags/squishy) vs  [crunchy](/tags/crunchy)
+- [acidic](/tags/acidic) vs [low acid](/tags/lowacid)
+- [strong](/tags/strong) vs [bland](/tags/bland)
+- [saucy](/tags/saucy) vs [dry](/tags/dry)
+
+#### Meal categories
+
 - [appetizer](/tags/appetizer)
 - [breakfast](/tags/breakfast)
+- [dinner](/tags/dinner)
 - [desert](/tags/dessert)
+- [wine](/tags/win)
+
+#### Extra steps
+
 - [Sous Vide](/sousvide)
 - [Home Canning](/canning)
-- [Wine Making](/wine)
+- [Wine](/wine)
 

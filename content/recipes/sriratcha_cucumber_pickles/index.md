@@ -3,15 +3,16 @@ title = "Sriracha Cucumber Pickles"
 date = 2022-05-03
 [taxonomies]
 categories = ["recipe"]
-tags = ["side", "gross"]
+tags = ["side", "acidic", "strong"]
 +++
 
 
-Excellent addition to a salad, and the brine can act as the acid. 
+Excellent addition to a salad.
 
 <!-- more -->
 
 These are 'refrigerator pickles', not needing a water bath or fermentation.
+
 The pickle juice can actually act as the vinegar in an oil and vinegar dressing on a simple salad.
 
 - 1 english or 4-5 persion cucumbers, sliced thin on a mandolin

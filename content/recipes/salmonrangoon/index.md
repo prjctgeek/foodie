@@ -4,12 +4,14 @@ date = 2022-05-27
 
 [taxonomies]
 categories = ["recipe"]
-tags = ["appetizer", "gross","crunchy"]
+tags = ["appetizer", "strong", "crunchy"]
 +++
 
 A much more approachable version of a PF Chang's appetizer.
 
 <!-- more -->
+
+The salmon can be off-putting to some, hence the "strong" tag.
 
 <img src="picture1.jpg" alt="Salmon Rangoon" width=250>
 
@@ -30,4 +32,6 @@ Put a spoonful of the cream cheese mixture into each wrapper and with a wet fing
  moisten the outer edge of half of the wrapper.  seal them with a pinch (watch some YouTube
  videos for various patterns to make it look like you know what you're doing).
 
-Fry in the oil until golden brown and crispy, pull out and rest on a paper towel/drying rack. Note: these don't have to be deep fried, and can be flipped over half way through.
+Fry in the oil at ~350F or until golden brown and crispy.
+
+Rest on a paper towel/drying rack. These could be pan fried and flipped over half way through.

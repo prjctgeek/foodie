@@ -4,7 +4,7 @@ date = 2022-06-23
 
 [taxonomies]
 categories = ["recipe"]
-tags = ["side", "gross"]
+tags = ["side", "strong", "acidic"]
 +++
 
 Not for everyone.
@@ -21,6 +21,7 @@ Not for everyone.
 Take an outer leaf of cabbage off and save as a 'lid'.
 
 Don't wash the cabbage, we're relying on nature for this ferment.
+
 Chop the onion and cabbage into thin strips.
 Put into a large mixing container after recording the weight of the container.
 
@@ -36,7 +37,8 @@ Cut the outer leaf into a circle to use as a lid and place it on top of the cabb
 
 Put a Ziploc baggie on top and fill with water as a weight.
 
-Put the burp lid on top and set in a warm spot in the kitchen (Seattle isn't a warm place).
+Put the burp lid on top and set in a warm spot in the kitchen (I'm not in a warm climate).
+
 Let it ferment for ~2 weeks, then test it and put in the fridge. 
 
 General advice is 6 months. Mine never lasts that long.
@@ -46,4 +48,4 @@ General advice is 6 months. Mine never lasts that long.
 
 - Reuben sandwhiches
 - In salads
-- With shaved apple and brauts
+- With shaved apple and brautwurst

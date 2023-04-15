@@ -13,24 +13,21 @@ It's not that they "just don't like dressing", there will be gagging.
 Many times, it takes a few iterations to correct the order.  It's exhausting.  It's hard to explain to front of house this isn't an allergy, it's a texture thing.
 
 Another area where this becomes an issue is dishes where the meat is the star of the show, but much of the flavor comes from a sauce.
-For example, pulled pork.  It's almost always on the dry side, and you pick the sauce based on your preferences to add both flavor and a texture contrast. 
+For example, pulled pork.  It's often on the dry side, and you pick the sauce based on your preferences to add both flavor and a texture contrast.
 When no sauce is acceptable, because of it's texture, flavor must be imparted into the meat without a sauce. This is deceptively difficult when adapting many recipes to the texture sensitive. 
 
+Tag for avoiding this: [dry](/tags/dry).
 
 ---
 
 #### Acidity and fermentation
 
-In ["Salt, fat, acid, heat"](https://www.amazon.com/Salt-Fat-Acid-Heat-Mastering-ebook/dp/B01HMXV0UQ/ref=sr_1_1?crid=2161LOJRKFXM9&keywords=salt%2C+fat%2C+acid%2C+heat&qid=1651765830&sprefix=salt%2C+fat%2Caps%2C268&sr=8-1), Samine put acid in the title for a reason.  Acidity isn't just for pickles and margaritas,
- it helps counteract heavy, greasy, meat centric dishes.  It's the punch in salad dressing and the zing in yogurt
-tziki. For the purpose of the guidelines, foods can have _some_ acid, it just can't be front and center.  Because of the 'no sauce' guideline, this is actually one of the easier items
- to leave out.
-
-One of my other recipes from ["Saving the Seasons"](https://www.amazon.com/Saving-Season-Canning-Pickling-Preserving/dp/0307599485/ref=sr_1_1?crid=DX1RAWC1I7UH&keywords=book+saving+the+seasons&qid=1661002523&sprefix=book+saving+the+season%2Caps%2C309&sr=8-1) is the bistro carrot pickle.
-As a foodie coping with this strange set of restrictions, I have turned to the pickle on the side of the dish as a coping mechanism.
+For the purpose of the guidelines, foods can have _some_ acid, it just can't be front and center.  Because of the 'no sauce' guideline, this is actually one of the easier items
+ to leave out.  In practice, this means no pickles, no relish, and tomato sauce can't have too much vinegar.
 
 Throughout this site, you'll see the tag: '[gross](/tags/gross)', to denote any recipe that doesn't follow these guidelines.
 
+Tags for avoiding this: [low acid](/tags/lowacid).
 
 ---
 
@@ -48,11 +45,12 @@ One kid doesn't like the texture of rice, while the other one doesn't like potat
 
 Shrimp.  My wife's says the little "popping" sensation of biting shrimp is just too much.  One kid says that a really heavy breading counter-acts this, but my usual strategy is cutting them in half lengthwise and over-cooking them, making  them "firm".
 
-Tomatoes are too runny/squish in the middle, and often slightly acidic, so two strikes against.
+Fresh tomatoes are too runny/squish in the middle, and often slightly acidic, so two strikes against.
 
 As many foodies recently, I've experimented with cooking using a [sous-vide](/sousvide) (hot water bath) setup.  My family will not tolerate the texture of meat 
  straight out of the sous-vide; too "squishy".
 
+Throughout this site, you'll see the tag: '[squishy](/tags/squishy)', to denote foods in this category and '[crunchy](/tags/crunchy)' to avoid it.
 
 ---
 
@@ -61,16 +59,17 @@ As many foodies recently, I've experimented with cooking using a [sous-vide](/so
 This area crosses over with acidity. Of course pickles are out of the question, but even mixing in elements like capers on a sandwich or a
 salty kalamata olive is a no go. Indian food, Korean food, and many other cuisines are frustratingly out of bounds with this guideline.
 
-Many fish is also in the category, as the smell is just too much. Cod in crunchy fish and chips is fine. Salmon is pushing it, and must be cooked without the skin, or smoked.
+Many fish are also in this category, as the smell is just too much. Cod in crunchy fish and chips is fine. Salmon is pushing it, and must be cooked without the skin, or smoked.
 
+Tags to avoid this: [bland](/tags/bland).
 
 ---
 
 #### Unexplained Exceptions
 
-First exception to these guidelines I still haven't been able to nail down is [artichoke dip](recipes/artichoke-dip).  It's mostly cream cheese, with jalapeno's and artichoke hearts.
-It seems to break violate creamy/saucy, but it gets devoured whenever we make it.
+First exception to these guidelines I still haven't been able to figure out is [artichoke dip](recipes/artichoke-dip).  It's mostly cream cheese, with jalapeno's and artichoke hearts.
+It seems to violate creamy/saucy, but it gets devoured whenever we make it.
 
 The other notable exception is mac and cheese.  The cheesy creamy sauce should be off limits.  My working theory is that some of these
  specific foods have a strong, positive childhood memory or connection.  Does that mean some of these objects aren't in any way related to being on the 
- spectrum and are instead just hang-ups from a bad experience?  Likely.
+ spectrum and are instead just hang-ups from a bad experience?

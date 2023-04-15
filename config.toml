@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://prjctgeek.github.io/textureist"
-title = "Foodie meets Pickie"
-description = "Food blog for those cooking for texture sensitive"
+title = "Cooking for sensory averse"
+description = "Some recipes for sensory averse, and those coping"
 default_language = "en"
 minify_html = false
 
@@ -17,9 +17,8 @@ taxonomies = [
 ]
 
 
-
 [markdown]
-# Whether to do syntaa highlighting
+# Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
 

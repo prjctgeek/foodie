@@ -4,7 +4,7 @@ date = 2022-05-03
 
 [taxonomies]
 categories = ["recipe"]
-tags = ["main"]
+tags = ["main", "dry"]
 +++
 
 
@@ -31,7 +31,9 @@ Mix together all ingredients by hand, it should be on the 'wet' side
  with the egg.  For big eaters, I portion out 170g per burger, which should yield about 3.
  For normal portion sizes, ~130gr should get you to 4 burgers.  
 
-Place in vacuum seal bags and Souse-vide at 55C for an hour. Store in the fridge/freezer until needed, then sear on high heat for ~2min per side.
+(optional) Place in vacuum seal bags and Souse-vide at 55C for an hour. Store in the fridge/freezer until needed.  To prepare, sear on high heat for ~2min per side.
+
+If not souse-vide, cook as per the usual food safety recommendation: 62C/145F in the middle.
 
 Serve on a toasted bun.
 

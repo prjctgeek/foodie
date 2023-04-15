@@ -4,23 +4,29 @@ date = 2022-05-03
 
 [taxonomies]
 categories = ["recipe"]
-tags = ["main", "meat"]
+tags = ["main", "meat", "dry", "strong"]
 +++
 
-We affectionatly refer to this as "Mexican pulled pork". My take is a little more work than the traditional, but packs in even more smokey goodness.
+We affectionately refer to this as "Mexican pulled pork". My take is a little more work than the traditional, but packs in even more smokey goodness.
 
 <!-- more -->
 
 
 When I volunteered to cook a taco bar lunch for the teaching staff at my wife's school, I decided I needed
 something a little more authentic.  I did a practice barbacoa pork shoulder and was impressed-
-without sauce, this is way better than traditional pulled pork. Juicy, a little bit of heat in the back of the
-mouth, but could be toned down by not adding too much broth back in.
+without sauce, this is way better than traditional pulled pork.
+
+Juicy, a little bit of heat in the back of the mouth, but you can control the heat by not adding too much broth back in.
 
 
 ### Ingredients
 
 - Bone-in pork shoulder (4.5kg / 10 lbs)
+
+### Equipment
+
+- Pressure cooker or instant pot
+- smoker (optional)
 
 #### Marinade
 

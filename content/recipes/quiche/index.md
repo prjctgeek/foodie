@@ -4,13 +4,14 @@ date = 2022-06-10
 
 [taxonomies]
 categories = ["recipe"]
-tags = ["main", "breakfast"]
+tags = ["main", "breakfast", "crunchy"]
 +++
 
 
 A crispy puff-pastry crust helps sell this.
 
 <!-- more -->
+
 
 
 <img src=quiche.jpg alt="quiche" width="200">

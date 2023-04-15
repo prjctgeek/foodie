@@ -4,7 +4,7 @@ date = "1997-06-21"
 
 [taxonomies]
 categories = ["recipe"]
-tags = ["dessert"]
+tags = ["dessert", "breakfast", "dry"]
 +++
 
 A little texture and extra sweetness helps sell it.

@@ -4,7 +4,7 @@ date = 2022-05-03
 template = "recipe.html"
 [taxonomies]
 categories = ["recipe"]
-tags = ["appetizer","squishy"]
+tags = ["appetizer","squishy", "saucy"]
 
 +++
 
