@@ -16,7 +16,7 @@ Another area where this becomes an issue is dishes where the meat is the star of
 For example, pulled pork.  It's often on the dry side, and you pick the sauce based on your preferences to add both flavor and a texture contrast.
 When no sauce is acceptable, because of it's texture, flavor must be imparted into the meat without a sauce. This is deceptively difficult when adapting many recipes to the texture sensitive. 
 
-Tag for avoiding this: [dry](/tags/dry).
+The tag for avoiding this: [dry](/tags/dry).
 
 ---
 
@@ -27,7 +27,7 @@ For the purpose of the guidelines, foods can have _some_ acid, it just can't be 
 
 Throughout this site, you'll see the tag: '[gross](/tags/gross)', to denote any recipe that doesn't follow these guidelines.
 
-Tags for avoiding this: [low acid](/tags/lowacid).
+The tags to find this is [acidic](/tags/acidic), but there is no tag for avoiding it as most of the recipes are low acid.
 
 ---
 
@@ -61,7 +61,7 @@ salty kalamata olive is a no go. Indian food, Korean food, and many other cuisin
 
 Many fish are also in this category, as the smell is just too much. Cod in crunchy fish and chips is fine. Salmon is pushing it, and must be cooked without the skin, or smoked.
 
-Tags to avoid this: [bland](/tags/bland).
+The tag [strong](/tags/strong) is used for this guideline, but most of the recipes here are on the bland side, so there is no tag for that.
 
 ---
 
