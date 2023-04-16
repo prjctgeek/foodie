@@ -33,11 +33,11 @@ For specifics on GitHub pages privacy policy, see [GitHub Pages data collection]
 
 _NOTE:_ the Pommes Anna did not go over well, so while it's pretty- not including a recipe for it.
 
-#### Quick texture tags
+#### Quick texture/flavor tags
 
 - [squishy](/tags/squishy) vs  [crunchy](/tags/crunchy)
 - [acidic](/tags/acidic) vs low acid (not tagging as this is most of the recipes)
-- [strong](/tags/strong) vs bland (also not tagging; most of the site)
+- [strong](/tags/strong) vs plain (also not tagging; most of the site)
 - [saucy](/tags/saucy) vs [dry](/tags/dry)
 
 #### Meal categories
