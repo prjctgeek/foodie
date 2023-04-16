@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://prjctgeek.github.io/textureist"
+base_url = "https://prjctgeek.github.io/foodie"
 title = "Cooking for sensory averse"
 description = "Some recipes for sensory averse, and those coping"
 default_language = "en"
