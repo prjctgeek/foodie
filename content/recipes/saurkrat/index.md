@@ -35,11 +35,11 @@ Put in a large jar and add ~1C warm water if the cabbage came from the grocery s
 
 Cut the outer leaf into a circle to use as a lid and place it on top of the cabbage.
 
-Put a Ziploc baggie on top and fill with water as a weight.
+Put a Ziploc baggies on top and fill with water as a weight.
 
 Put the burp lid on top and set in a warm spot in the kitchen (I'm not in a warm climate).
 
-Let it ferment for ~2 weeks, then test it and put in the fridge. 
+Let it ferment for ~2 weeks, then test it and put in the refrigerator. 
 
 General advice is 6 months. Mine never lasts that long.
 
@@ -47,8 +47,8 @@ General advice is 6 months. Mine never lasts that long.
 
 <img src="purple.jpg" alt="kraut jar" width=250>
 
-### How to use saurkraut?
+### How to use sauerkraut?
 
-- Reuben sandwhiches
+- Reuben sandwiches
 - In salads
-- With shaved apple and brautwurst
+- With shaved apple and bratwurst

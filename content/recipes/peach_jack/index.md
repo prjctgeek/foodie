@@ -7,7 +7,7 @@ categories = ["recipe"]
 tags = ["dessert", "acidic", "wine"]
 +++
 
-"Jacking", or freeze distilation, creates a fortified wine, which in the case of peaches, really preserves the taste of summer.
+"Jacking", or freeze distillation, creates a fortified wine, which in the case of peaches, really preserves the taste of summer.
 
 <!-- more -->
 
@@ -18,7 +18,7 @@ Full disclosure, I'm still learning about home wine making, this is a work in pr
 - Box of Peaches (prefer free-stones like coral star)
 - Sugar
 - 1 packet Champaign yeast (Red star)
-- 4-5 rasins
+- 4-5 raisins
 - 1 C strong black tea
 
 ### Steps
@@ -49,7 +49,7 @@ For jacking, measure out enough slurry to fill your strainer.  In the photo, it 
 <img src="jacking.jpg" width=200>
 
 
-### Yeild
+### Yield
 
 I got around 4 liters of Peach Jack from a box of peaches.  ABV and sugar levels still need measuring...
 
@@ -57,4 +57,4 @@ I got around 4 liters of Peach Jack from a box of peaches.  ABV and sugar levels
 
 ### Credit
 
-Starting point for this was [Practical Selfreliance](https://practicalselfreliance.com/peach-wine/).
+Starting point for this was [Practical Self reliance](https://practicalselfreliance.com/peach-wine/).

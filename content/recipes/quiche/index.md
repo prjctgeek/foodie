@@ -42,7 +42,7 @@ Make sure the edges of the puff pastry extend up enough to prevent the egg from 
 Sprinkle your protein of choice, making sure it's cut small enough to be 'bite-sized'
 
 Evenly sprinkle cheese all over the protein
-Beat 6-8 eggs until smooth, then incorporate the greek yogurt. Gently pour over the cheese, trying not to disturb everything.
+Beat 6-8 eggs until smooth, then incorporate the Greek yogurt. Gently pour over the cheese, trying not to disturb everything.
 
 Chop the basil into thin strips and sprinkle evenly over the top of the quiche.
 

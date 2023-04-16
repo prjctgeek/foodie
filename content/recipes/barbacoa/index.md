@@ -7,7 +7,7 @@ categories = ["recipe"]
 tags = ["main", "meat", "dry", "strong"]
 +++
 
-We affectionately refer to this as "Mexican pulled pork". My take is a little more work than the traditional, but packs in even more smokey goodness.
+We affectionately refer to this as "Mexican pulled pork". My take is a little more work than the traditional, but packs in even more smoky goodness.
 
 <!-- more -->
 

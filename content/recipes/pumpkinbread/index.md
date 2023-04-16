@@ -33,7 +33,7 @@ Try cream cheese instead of butter on top gives a tang for the foodies.
 
 For pumpkin preparation, quarter a pumping and scoop out the seeds/insides, place in a 375F oven for an hour, or until it smells like pumpkin and a knife goes in easily.
 
-Grease and flour 2 bread loaf pans. Preheat oven to 375F
+Grease and flour 2 bread loaf pans. Pre-heat oven to 375F
 
 Cream pumpkin, oil, sugar and eggs in a large bowl.  Add the spices.
 

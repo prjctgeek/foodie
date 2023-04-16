@@ -15,14 +15,14 @@ These are 'refrigerator pickles', not needing a water bath or fermentation.
 
 The pickle juice can actually act as the vinegar in an oil and vinegar dressing on a simple salad.
 
-- 1 english or 4-5 persion cucumbers, sliced thin on a mandolin
-- 1/4 C Sriratcha
+- 1 English or 4-5 Persian cucumbers, sliced thin on a mandolin
+- 1/4 C Sriracha
 - 1 C vinegar
 - 1 T sesame oil
 - 1 shallot
 - 1 T sugar
 
-Slice the cucumber and shallot thinly using a mandolin or sharp knife.  Mix the vinegar, oil, sugar and Sriratcha. 
+Slice the cucumber and shallot thinly using a mandolin or sharp knife.  Mix the vinegar, oil, sugar and Sriracha. 
 
 Place the cucumbers and shallots in alternating layers in a mason jar.  Pour the brine over, and work out air bubbles by tapping or using a chopstick.
 

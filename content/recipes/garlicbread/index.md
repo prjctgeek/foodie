@@ -25,8 +25,8 @@ If using pizza dough, cut into palm sized chunks and roll out into long strands.
 
 Line a cookie sheet with parchment or non-stick spray, then flatten the dough on a cookie sheet.
 
-Spread garlic and butter over carb choice and sprinkle liberally with grated Parmesan.
-My family does not approve of the sprinkling parmesan on top, so I only do one for myself.
+Spread garlic and butter over carbohydrate choice and sprinkle liberally with grated Parmesan.
+My family does not approve of the sprinkling Parmesan on top, so I only do one for myself.
 
-Put in the oven at 350 for 10 min or until Parmesan just starts to brown
+Put in the oven at 350 for 10 minutes or until Parmesan just starts to brown
 

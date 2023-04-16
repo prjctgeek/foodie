@@ -32,19 +32,19 @@ Most sous-vide recipes focus on lean meat, there are other uses...but this is wh
 
 #### Good
 
-- Pork loin: 56c for 1 hour and pan sear medallions for 2 min a side to get the texture right
-- Steak: 55C with a 2 min sear per side when ready to eat. For those wanting well-done, consider slicing up the steak a bit.
-- Hollandaise: butter and egg yoke at 65C for 20min, then blend
+- Pork loin: 56c for 1 hour and pan sear medallions for 2 minutes a side to get the texture right
+- Steak: 55C with a 2 minutes sear per side when ready to eat. For those wanting well-done, consider slicing up the steak a bit.
+- Hollandaise: butter and egg yoke at 65C for 20minutes, then blend
 - Pasteurized eggs: 56C for 30 minutes.  Safe to eat raw cookie dough is the best.
 - [Hamburgers](recipes/hamburgers): 55C for one hour
 - Chicken breasts/thighs: 55C gets you close enough, with a couple minutes of pan time for the right texture
-- Mash potatoes: 90c for 2hours (not worth it, IMO)
-- Blanched Peaches: 80c for 2min.  This is to loosen the skins for canning.
-- Corn: 82C for 30 min. This was surprisingly good
+- Mash potatoes: 90c for 2hours (not worth it, in my opinion)
+- Blanched Peaches: 80c for 2minutes.  This is to loosen the skins for canning.
+- Corn: 82C for 30 minutes. This was surprisingly good
 
 #### The NOPE list
 
-- Don't sous vide fish.  It's like microwaving it. Just don't.
+- Don't sous vide fish.  It's like micro-waving it. Just don't.
 - Lamb leg: 54C for 24 hours - do not repeat, tough, needs fat melting heat
 - Pork Belly/Bacon: NO. this meat needs fat rendering heat
 - Turkey: 63.5 for 24 hours.  Not worth it, Smoke/roasting/deep fry still better.

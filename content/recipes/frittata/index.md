@@ -32,7 +32,7 @@ Scoop out the bacon, leaving the fat in the pan.  Sweat the onions and garlic in
 rendered bacon fat for a few minutes.
 
 Crack the eggs into a bowl and add cream while the onions cook. (optional) Whip with an immersion blender 
-for 1 min to add some air to the mixture. Turn the heat up almost to the point of where the bacon fat smokes.
+for 1 minute to add some air to the mixture. Turn the heat up almost to the point of where the bacon fat smokes.
 
 Once the onions are translucent, gently pour in the egg mixture, trying not to disturb bacon. Turn the heat off.  
 Add the cheese, carefully spreading it evenly.

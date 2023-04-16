@@ -8,7 +8,7 @@ tags = ["breakfast", "crunchy", "dry"]
 +++
 
 
-Fancy pastries, with a carmel bottom
+Fancy pastries, with a caramel bottom
 
 <!-- more -->
 
@@ -59,10 +59,10 @@ The goal is to have it look somewhat like a flower.
 
 When you're all done filling the muffin tins, grab a spoon and with the sugar mixture, dust about 1 T down into the crevices of the pastry.
 
-Turn the oven down to 325F and place them in for 55min.
+Turn the oven down to 325F and place them in for 55minute.
 
 <img src="PXL_20221124_174822974.jpg" width=250>
 
-If the temperature/time was right, you should be rewarded with a crunchy pastry and a slightly carmelized bottem/inside.
+If the temperature/time was right, you should be rewarded with a crunchy pastry and a slightly carmelized bottom/inside.
 
 

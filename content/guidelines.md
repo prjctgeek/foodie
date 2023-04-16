@@ -33,7 +33,7 @@ The tags to find this is [acidic](tags/acidic), but there is no tag for avoiding
 
 #### Mealy, creamy, [squishy](tags/squishy)
 
-This one is hard to pin down.  I first came across it when trying to serve hummus.  Nope, too creamy. OK, let's try straight up
+This one is hard to pin down.  I first came across it when trying to serve humus.  Nope, too creamy. OK, let's try straight up
 garbanzo beans, no spice, no acid.  Nope: "Texture is wrong".  Testing what made beans objectionable, it seems to correlate to size.
 Large beans, like garbanzo beans, kidney beans, etc, have a "squishy", "mealy" internal texture that seems to not be present in smaller beans.
 So black beans were fine.  Retried beans are a gray area, with a layer of cheese or with crispy chips, it might be OK.
@@ -57,7 +57,7 @@ Throughout this site, you'll see the tag: '[squishy](tags/squishy)', to denote f
 #### Spicy or strong flavors
 
 This area crosses over with acidity. Of course pickles are out of the question, but even mixing in elements like capers on a sandwich or a
-salty kalamata olive is a no go. Indian food, Korean food, and many other cuisines are frustratingly out of bounds with this guideline.
+salty kalamata olive is a no go. Indian food, Korean food, and many other cuisine are frustratingly out of bounds with this guideline.
 
 Many fish are also in this category, as the smell is just too much. Cod in crunchy fish and chips is fine. Salmon is pushing it, and must be cooked without the skin, or smoked.
 

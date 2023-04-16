@@ -24,7 +24,7 @@ Coming to terms with this idea was helpful for me. Here are some more articles o
 ### Privacy call out
 
 We don't use tracking pixels, cookies, or do any analytics outside of what GitHub provides. This site is statically generated with [zola](https://www.getzola.org/).
-For specifics on GitHub pages privacy policy, see [GitHub Pages data collection](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection) and GitHub's overall [privcay statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
+For specifics on GitHub pages privacy policy, see [GitHub Pages data collection](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection) and GitHub's overall [privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
 <figure>
   <img src="pomanna.jpg" width="250">
