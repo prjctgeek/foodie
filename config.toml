@@ -55,8 +55,8 @@ webmanifest = "/icons/site.webmanifest"
 
 
 # To add google analytics
-[extra.analytics]
-google = "<your_gtag>"
+#[extra.analytics]
+#google = "<your_gtag>"
 
 # To enable mapbox maps
 #[extra.mapbox]
