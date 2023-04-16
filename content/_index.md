@@ -36,21 +36,21 @@ _NOTE:_ the Pommes Anna did not go over well, so while it's pretty- not includin
 #### Quick texture/flavor tags
 
 - [squishy](tags/squishy) vs  [crunchy](tags/crunchy)
-- [acidic](/tags/acidic) vs low acid (not tagging as this is most of the recipes)
-- [strong](/tags/strong) vs plain (also not tagging; most of the site)
-- [saucy](/tags/saucy) vs [dry](/tags/dry)
+- [acidic](tags/acidic) vs low acid (not tagging as this is most of the recipes)
+- [strong](tags/strong) vs plain (also not tagging; most of the site)
+- [saucy](tags/saucy) vs [dry](tags/dry)
 
 #### Meal categories
 
-- [appetizer](/tags/appetizer)
-- [breakfast](/tags/breakfast)
-- [dinner](/tags/dinner)
-- [desert](/tags/dessert)
-- [wine](/tags/win)
+- [appetizer](tags/appetizer)
+- [breakfast](tags/breakfast)
+- [dinner](tags/dinner)
+- [desert](tags/dessert)
+- [wine](tags/win)
 
 #### Extra steps
 
-- [Sous Vide](/sousvide)
-- [Home Canning](/canning)
-- [Wine](/wine)
+- [Sous Vide](sousvide)
+- [Home Canning](canning)
+- [Wine](wine)
 
