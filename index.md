@@ -12,7 +12,7 @@ Many times, it takes a few iterations to correct the order.  It's exhausting.  I
 
 Another area where this becomes an issue is dishes where the meat is the star of the show, but much of the flavor comes from a sauce.
 For example, pulled pork.  It's almost always on the dry side, and you pick the sauce based on your preferences to add both flavor and a texture contrast. 
-When no sauce is acceptable, becuase of it's texture, flavor must be imparted into the meat without a sauce. This is deceptivly difficult when adapting many recipes to the texture sensitive. 
+When no sauce is acceptable, because of it's texture, flavor must be imparted into the meat without a sauce. This is deceptivly difficult when adapting many recipes to the texture sensitive. 
 
 #### Acidicity and fermentation
 
