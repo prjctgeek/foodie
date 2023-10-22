@@ -16,7 +16,7 @@ Another area where this becomes an issue is dishes where the meat is the star of
 For example, pulled pork.  It's often on the dry side, and you pick the sauce based on your preferences to add both flavor and a texture contrast.
 When no sauce is acceptable, because of it's texture, flavor must be imparted into the meat without a sauce. This is deceptively difficult when adapting many recipes to the texture sensitive. 
 
-The tag for avoiding this: [dry](tags/dry).
+The tag for avoiding this: [dry](/tags/dry).
 
 ---
 
@@ -25,13 +25,13 @@ The tag for avoiding this: [dry](tags/dry).
 For the purpose of the guidelines, foods can have _some_ acid, it just can't be front and center.  Because of the 'no sauce' guideline, this is actually one of the easier items
  to leave out.  In practice, this means no pickles, no relish, and tomato sauce can't have too much vinegar.
 
-Throughout this site, you'll see the tag: '[gross](tags/gross)', to denote any recipe that doesn't follow these guidelines.
+Throughout this site, you'll see the tag: '[gross](/tags/gross)', to denote any recipe that doesn't follow these guidelines.
 
-The tags to find this is [acidic](tags/acidic), but there is no tag for avoiding it as most of the recipes are low acid.
+The tags to find this is [acidic](/tags/acidic), but there is no tag for avoiding it as most of the recipes are low acid.
 
 ---
 
-#### Mealy, creamy, [squishy](tags/squishy)
+#### Mealy, creamy, [squishy](/tags/squishy)
 
 This one is hard to pin down.  I first came across it when trying to serve humus.  Nope, too creamy. OK, let's try straight up
 garbanzo beans, no spice, no acid.  Nope: "Texture is wrong".  Testing what made beans objectionable, it seems to correlate to size.
@@ -50,7 +50,7 @@ Fresh tomatoes are too runny/squish in the middle, and often slightly acidic, so
 As many foodies recently, I've experimented with cooking using a [sous-vide](sousvide) (hot water bath) setup.  My family will not tolerate the texture of meat
  straight out of the sous-vide; too "squishy".
 
-Throughout this site, you'll see the tag: '[squishy](tags/squishy)', to denote foods in this category and '[crunchy](tags/crunchy)' to avoid it.
+Throughout this site, you'll see the tag: '[squishy](/tags/squishy)', to denote foods in this category and '[crunchy](/tags/crunchy)' to avoid it.
 
 ---
 
@@ -61,13 +61,13 @@ salty kalamata olive is a no go. Indian food, Korean food, and many other cuisin
 
 Many fish are also in this category, as the smell is just too much. Cod in crunchy fish and chips is fine. Salmon is pushing it, and must be cooked without the skin, or smoked.
 
-The tag [strong](tags/strong) is used for this guideline, but most of the recipes here are on the bland side, so there is no tag for that.
+The tag [strong](/tags/strong) is used for this guideline, but most of the recipes here are on the bland side, so there is no tag for that.
 
 ---
 
 #### Unexplained Exceptions
 
-First exception to these guidelines I still haven't been able to figure out is [artichoke dip](recipes/artichoke-dip).  It's mostly cream cheese, with jalapeno's and artichoke hearts.
+First exception to these guidelines I still haven't been able to figure out is [artichoke dip](/recipes/artichoke-dip).  It's mostly cream cheese, with jalapeno's and artichoke hearts.
 It seems to violate creamy/saucy, but it gets devoured whenever we make it.
 
 The other notable exception is mac and cheese.  The cheesy creamy sauce should be off limits.  My working theory is that some of these
