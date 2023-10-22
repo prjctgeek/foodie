@@ -4,7 +4,7 @@ date = 2022-06-23
 
 [taxonomies]
 categories = ["recipe"]
-tags = ["side", "strong", "acidic"]
+tags = ["side", "strong", "acidic", "gross"]
 +++
 
 Not for everyone.

@@ -3,7 +3,7 @@ title = "Sriracha Cucumber Pickles"
 date = 2022-05-03
 [taxonomies]
 categories = ["recipe"]
-tags = ["side", "acidic", "strong"]
+tags = ["side", "acidic", "strong", "gross"]
 +++
 
 

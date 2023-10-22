@@ -16,9 +16,9 @@ Pandemic comfort food for me.
 
 - 1 can (5oz) tuna
 - 1 large flour tortilla
-- 1 T greek yogurt or mayo
+- 1 T Greek yogurt or mayo
 - dash of olive oil
-- 1 T parmasean cheese
+- 1 T Parmesean cheese
 - dash of Za'atar
 - pinch of salt
 - 2-3 crimini mushrooms

@@ -4,7 +4,7 @@ date = 2022-05-03
 
 [taxonomies]
 categories = ["recipe"]
-tags = ["main", "meat", "dry", "strong"]
+tags = ["main", "dinner", "meat", "dry", "strong"]
 +++
 
 We affectionately refer to this as "Mexican pulled pork". My take is a little more work than the traditional, but packs in even more smoky goodness.

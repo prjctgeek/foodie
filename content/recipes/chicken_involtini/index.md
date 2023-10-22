@@ -4,7 +4,7 @@ date = 2023-04-20
 
 [taxonomies]
 categories = ["recipe"]
-tags = ["main", "dry"]
+tags = ["main", "dinner", "dry"]
 +++
 
 Mini meat rolls.

@@ -4,7 +4,7 @@ date = 2021-01-01
 
 [taxonomies]
 categories = ["recipe"]
-tags = ["main","meat","dry"]
+tags = ["main","meat","dry", "dinner"]
 +++
 
 

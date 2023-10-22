@@ -20,19 +20,6 @@ Coming to terms with this idea was helpful for me. Here are some more articles o
 - Sensory food aversion [https://www.meganboitano.com/blog/sensory-food-aversion-refusing-textures](https://www.meganboitano.com/blog/sensory-food-aversion-refusing-textures)
 
 
-
-### Privacy call out
-
-We don't use tracking pixels, cookies, or do any analytics outside of what GitHub provides. This site is statically generated with [zola](https://www.getzola.org/).
-For specifics on GitHub pages privacy policy, see [GitHub Pages data collection](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection) and GitHub's overall [privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
-
-<figure>
-  <img src="pomanna.jpg" width="250">
-  <figcaption> Pommes Anna</figcaption>
-</figure>
-
-_NOTE:_ the Pommes Anna did not go over well, so while it's pretty- not including a recipe for it.
-
 #### Quick texture/flavor tags
 
 - [squishy](tags/squishy) vs  [crunchy](tags/crunchy)
@@ -54,3 +41,15 @@ _NOTE:_ the Pommes Anna did not go over well, so while it's pretty- not includin
 - [Home Canning](canning)
 - [Wine](wine)
 
+
+### Privacy call out
+
+We don't use tracking pixels, cookies, or do any analytics outside of what GitHub provides. This site is statically generated with [zola](https://www.getzola.org/).
+For specifics on GitHub pages privacy policy, see [GitHub Pages data collection](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection) and GitHub's overall [privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
+
+<figure>
+  <img src="pomanna.jpg" width="250">
+  <figcaption> Pommes Anna</figcaption>
+</figure>
+
+_NOTE:_ This is Pommes Anna. She's pretty, but the texture did not go over well, so not including a recipe for it.

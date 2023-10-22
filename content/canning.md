@@ -21,6 +21,5 @@ For the purposes of texture though, canned food is usually a hard pass, unless i
 
 - Jam. Strawberry-rhubarb is my childhood favorite, and I still make it all the time.
 - Carrot pickles
-- Pasta Sauce
-- Pie fillings
-
+- Chutney.  Rhubarb Chutney is a new favorite of mine.
+- Pickles

@@ -4,7 +4,7 @@ date = 2022-06-23
 
 [taxonomies]
 categories = ["recipe"]
-tags = ["recipe", "crunchy", "dry"]
+tags = ["side", "crunchy", "dry"]
 +++
 
 Served as a common side, it's crunchy, cheesy, and garlicky
