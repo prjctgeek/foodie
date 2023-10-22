@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://prjctgeek.github.io/foodie/sitemap.xml

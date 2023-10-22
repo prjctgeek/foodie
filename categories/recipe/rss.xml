@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Cooking for sensory averse - recipe</title>
+      <link>https://prjctgeek.github.io/foodie</link>
+      <description>Some recipes for sensory averse, and those coping</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://prjctgeek.github.io/foodie/categories/recipe/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>White bean soup</title>
+          <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/whitebeansoup/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/whitebeansoup/</guid>
+          <description>&lt;p&gt;We got some smoked pork neck bones from a friend and I thought I&#x27;d take a crack at making soup with them.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Tuna Melt</title>
+          <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/tunamelt/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/tunamelt/</guid>
+          <description>&lt;p&gt;Pandemic comfort food for me.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Chicken Involtini</title>
+          <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/chicken-involtini/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/chicken-involtini/</guid>
+          <description>&lt;p&gt;Mini meat rolls.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Black Bean Chili</title>
+          <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/chilli/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/chilli/</guid>
+          <description>&lt;p&gt;Nothing terribly special about this Chili, other than the lack of spice.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Garlic Bread</title>
+          <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/garlicbread/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/garlicbread/</guid>
+          <description>&lt;p&gt;Served as a common side, it&#x27;s crunchy, cheesy, and garlicky&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Sauerkraut</title>
+          <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/saurkrat/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/saurkrat/</guid>
+          <description>&lt;p&gt;Not for everyone.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Quiche</title>
+          <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/quiche/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/quiche/</guid>
+          <description>&lt;p&gt;A crispy puff-pastry crust helps sell this.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Kouign-Amann</title>
+          <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/kouign-amann/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/kouign-amann/</guid>
+          <description>&lt;p&gt;Fancy pastries, with a caramel bottom&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Salmon Rangoon</title>
+          <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/salmonrangoon/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/salmonrangoon/</guid>
+          <description>&lt;p&gt;A much more approachable version of a PF Chang&#x27;s appetizer.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Bacon and Artichoke Frittata</title>
+          <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/frittata/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/frittata/</guid>
+          <description>&lt;p&gt;Similar to quiche, but without the crust.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Artichoke dip</title>
+          <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/artichoke-dip/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/artichoke-dip/</guid>
+          <description>&lt;p&gt;A quintessential potluck item from decades past, it&#x27;s easy to assemble, travels well and can be re-heated easily.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Barbacoa</title>
+          <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/barbacoa/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/barbacoa/</guid>
+          <description>&lt;p&gt;We affectionately refer to this as &amp;quot;Mexican pulled pork&amp;quot;. My take is a little more work than the traditional, but packs in even more smoky goodness.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Hamburgers</title>
+          <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/hamburgers/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/hamburgers/</guid>
+          <description>&lt;p&gt;Why is something so simple and well understood as a Hamburger here?&lt;&#x2F;p&gt;
+&lt;p&gt;Well, referring to the &lt;a href=&quot;&#x2F;guidelines&quot;&gt;guidelines&lt;&#x2F;a&gt;, we&#x27;re not going to put sauce, Mayonnaise, relish, etc on these.  How do we turn a dry hockey-puck of meat into something tasty as-is?&lt;&#x2F;p&gt;
+&lt;p&gt;My solution is two fold: add fat and flavor to the meat then use sous-vide.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Sriracha Cucumber Pickles</title>
+          <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/sriratcha-cucumber-pickles/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/sriratcha-cucumber-pickles/</guid>
+          <description>&lt;p&gt;Excellent addition to a salad.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Pulled Pork</title>
+          <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/pulledpork/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/pulledpork/</guid>
+          <description>&lt;p&gt;In the overview we use pulled pork as an example of &amp;quot;usually dry&amp;quot; food.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Granola</title>
+          <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/granola/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/granola/</guid>
+          <description>&lt;p&gt;My take on granola, usually just mixed 50&#x2F;50 with plain Greek yogurt.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Pumpkin Pie</title>
+          <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/pumpkinpie/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/pumpkinpie/</guid>
+          <description>&lt;p&gt;Moving old recipe cards to this site I came across this pie recipe.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Pumpkin Bread</title>
+          <pubDate>Sat, 21 Jun 1997 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/pumpkinbread/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/pumpkinbread/</guid>
+          <description>&lt;p&gt;A little texture and extra sweetness helps sell it.
+Try cream cheese instead of butter on top gives a tang for the foodies.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Peach Wine&#x2F;Jack</title>
+          <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/peach-jack/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/peach-jack/</guid>
+          <description>&lt;p&gt;&amp;quot;Jacking&amp;quot;, or freeze distillation, creates a fortified wine, which in the case of peaches, really preserves the taste of summer.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Cooking for sensory averse - reference</title>
+      <link>https://prjctgeek.github.io/foodie</link>
+      <description>Some recipes for sensory averse, and those coping</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://prjctgeek.github.io/foodie/categories/reference/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Bibliography</title>
+          <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/biblography/</link>
+          <guid>https://prjctgeek.github.io/foodie/biblography/</guid>
+          <description>&lt;h3 id=&quot;a-m&quot;&gt;A-M&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;n-z&quot;&gt;N-Z&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.com&#x2F;Salt-Fat-Acid-Heat-Mastering-ebook&#x2F;dp&#x2F;B01HMXV0UQ&#x2F;ref=sr_1_1?crid=2161LOJRKFXM9&amp;amp;keywords=salt%2C+fat%2C+acid%2C+heat&amp;amp;qid=1651765830&amp;amp;sprefix=salt%2C+fat%2Caps%2C268&amp;amp;sr=8-1&quot;&gt;&amp;quot;Salt, fat, acid, heat&amp;quot;&lt;&#x2F;a&gt;~~&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+    </channel>
+</rss>
