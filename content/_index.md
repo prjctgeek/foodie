@@ -22,6 +22,8 @@ Coming to terms with this idea was helpful for me. Here are some more articles o
 
 #### Quick texture/flavor tags
 
+Obviously, much of this is subjective and opinionated.  You might not agree with my family's assessment, and that's ok.
+
 - [squishy](tags/squishy) vs  [crunchy](tags/crunchy)
 - [acidic](tags/acidic) vs low acid (not tagging as this is most of the recipes)
 - [strong](tags/strong) vs plain (also not tagging; most of the site)
@@ -41,15 +43,15 @@ Coming to terms with this idea was helpful for me. Here are some more articles o
 - [Home Canning](canning)
 - [Wine](wine)
 
-
-### Privacy call out
-
-We don't use tracking pixels, cookies, or do any analytics outside of what GitHub provides. This site is statically generated with [zola](https://www.getzola.org/).
-For specifics on GitHub pages privacy policy, see [GitHub Pages data collection](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection) and GitHub's overall [privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
-
 <figure>
   <img src="pomanna.jpg" width="250">
   <figcaption> Pommes Anna</figcaption>
 </figure>
 
-_NOTE:_ This is Pommes Anna. She's pretty, but the texture did not go over well, so not including a recipe for it.
+_This is Pommes Anna. She's pretty, but the texture did not go over well, so not including a recipe for it._
+
+
+### Privacy call out
+
+We don't use tracking pixels, cookies, or do any analytics outside of what GitHub provides. This site is statically generated with [zola](https://www.getzola.org/).
+For specifics on GitHub pages privacy policy, see [GitHub Pages data collection](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection) and GitHub's overall [privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).

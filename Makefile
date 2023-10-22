@@ -4,4 +4,4 @@ serve:
 	zola serve
 
 spell:
-	typos --write-changes index.md ./content/recipes/*/*.md
+	typos --write-changes ./content/_index.md ./content/recipes/*/*.md
