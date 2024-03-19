@@ -19,27 +19,33 @@ I scaled this up for a volunteer catering event to feed the staff of an elementa
 - 1 chopped onion
 - 2 cloves of garlic
 - 500gr of protein - I like stew meat (optionally substitute hamburger)
-- 1 can of crushed tomatoes (24Oz?)
+- 1 can of crushed tomatoes (12-14 Oz)
 - 1.5T chili powder
 - 1 T oregano
 - 1 T basil
+- 1 Bay leaf (optional)
 - 1 T red wine vinegar
-- diced bell pepper and/or jalapeno (optional)
+- diced bell/hatch/jalapeno (optional)
 - sour cream (optional)
+
+Makes 6 servings.
 
 
 #### Beans
 
-For dry beans, setup the instant pot with beans, double the volume of water, a clove of garlic and a bay leaf.
+For dry beans, setup the instant pot with beans, double the volume of water or stock, a clove of garlic and a bay leaf.
 Set the instant pot for beans, cook for an hour.
 
 If using canned beans, not much to do- just open the can (they aren't as flavorful though).
 
+The liquid for either method should go into the final pot, it acts as a thickener.
 
 #### Meat
 
-In the instant pot (after the beans), put it on saute and brown the stew meat.
-Add 1C of beef stock and 1 clove of garlic and 1 bay leaf, and cook on 'meat' for 35 minutes.
+In the instant pot (after removing beans), put it on saute and brown the meat.
+
+If using stew meat, add 1C of beef stock and 1 clove of garlic and 1 bay leaf, and cook on 'meat' for 35 minutes.
+For regular hamburger, just brown it.
 
 #### Final assembly
 

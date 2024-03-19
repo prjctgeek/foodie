@@ -47,6 +47,8 @@ Shrimp.  My wife's says the little "popping" sensation of biting shrimp is just 
 
 Fresh tomatoes are too runny/squish in the middle, and often slightly acidic, so two strikes against.
 
+As long as it's in the background flavor wise, Mushrooms' texture can be masked by chopping it very small or just turning it into a paste in the blender. Using it as a bread substitue or as a base, like in stuffed mushrooms, is a hard no.
+
 As many foodies recently, I've experimented with cooking using a [sous-vide](sousvide) (hot water bath) setup.  My family will not tolerate the texture of meat
  straight out of the sous-vide; too "squishy".
 
@@ -60,6 +62,8 @@ This area crosses over with acidity. Of course pickles are out of the question, 
 salty kalamata olive is a no go. Indian food, Korean food, and many other cuisine are frustratingly out of bounds with this guideline.
 
 Many fish are also in this category, as the smell is just too much. Cod in crunchy fish and chips is fine. Salmon is pushing it, and must be cooked without the skin, or smoked.
+
+Earthy spices, like cumin are a hard no.
 
 The tag [strong](/tags/strong) is used for this guideline, but most of the recipes here are on the bland side, so there is no tag for that.
 
