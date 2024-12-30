@@ -1,7 +1,10 @@
-.PHONEY: spell serve
+.PHONEY: serve
 
 serve:
 	zola serve
 
-spell:
+test:
 	typos --write-changes ./content/_index.md ./content/recipes/*/*.md
+
+build: test
+	zola build

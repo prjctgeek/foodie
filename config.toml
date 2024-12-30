@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://prjctgeek.github.io/foodie"
+base_url = "https://foodie.chapmaniacs.com/"
 title = "Cooking for sensory averse"
 description = "Some recipes for sensory averse, and those coping"
 default_language = "en"
@@ -10,6 +10,8 @@ generate_feed = true
 feed_filename = "rss.xml"
 build_search_index = true
 theme = "DeepThought"
+
+ignored_content = [ "README.md" ]
 
 taxonomies = [
     { name = "categories", feed = true, paginate_by = 10 },
