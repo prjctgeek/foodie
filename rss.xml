@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Cooking for sensory averse</title>
+      <link>https://prjctgeek.github.io/foodie</link>
+      <description>Some recipes for sensory averse, and those coping</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://prjctgeek.github.io/foodie/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>White bean soup</title>
+          <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/whitebeansoup/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/whitebeansoup/</guid>
+          <description>&lt;p&gt;We got some smoked pork neck bones from a friend and I thought I&#x27;d take a crack at making soup with them.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Tuna Melt</title>
+          <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/tunamelt/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/tunamelt/</guid>
+          <description>&lt;p&gt;Pandemic comfort food for me.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Chicken Involtini</title>
+          <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/chicken-involtini/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/chicken-involtini/</guid>
+          <description>&lt;p&gt;Mini meat rolls.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Black Bean Chili</title>
+          <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/chilli/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/chilli/</guid>
+          <description>&lt;p&gt;Nothing terribly special about this Chili, other than the lack of spice.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Bibliography</title>
+          <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/biblography/</link>
+          <guid>https://prjctgeek.github.io/foodie/biblography/</guid>
+          <description>&lt;h3 id=&quot;a-m&quot;&gt;A-M&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;n-z&quot;&gt;N-Z&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.com&#x2F;Salt-Fat-Acid-Heat-Mastering-ebook&#x2F;dp&#x2F;B01HMXV0UQ&#x2F;ref=sr_1_1?crid=2161LOJRKFXM9&amp;amp;keywords=salt%2C+fat%2C+acid%2C+heat&amp;amp;qid=1651765830&amp;amp;sprefix=salt%2C+fat%2Caps%2C268&amp;amp;sr=8-1&quot;&gt;&amp;quot;Salt, fat, acid, heat&amp;quot;&lt;&#x2F;a&gt;~~&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Canning</title>
+          <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/canning/</link>
+          <guid>https://prjctgeek.github.io/foodie/canning/</guid>
+          <description>&lt;h3 id=&quot;lost-art&quot;&gt;Lost art?&lt;&#x2F;h3&gt;
+&lt;p&gt;There are many articles about canning, and I mostly learned it from my mother&#x2F;grandmother, so surely it&#x27;s not completely lost?&lt;&#x2F;p&gt;
+&lt;p&gt;But when I talk about doing home canning at work&#x2F;social interactions, everyone seems surprised at this knowledge.&lt;&#x2F;p&gt;
+&lt;p&gt;For the purposes of texture though, canned food is usually a hard pass, unless it is an ingredient to something else.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;favorite-recipes-that-need-recording&quot;&gt;Favorite recipes that need recording&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Jam. Strawberry-rhubarb is my childhood favorite, and I still make it all the time.&lt;&#x2F;li&gt;
+&lt;li&gt;Carrot pickles&lt;&#x2F;li&gt;
+&lt;li&gt;Chutney.  Rhubarb Chutney is a new favorite of mine.&lt;&#x2F;li&gt;
+&lt;li&gt;Pickles&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Conversions</title>
+          <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/conversions/</link>
+          <guid>https://prjctgeek.github.io/foodie/conversions/</guid>
+          <description>&lt;h3 id=&quot;what&quot;&gt;What ?&lt;&#x2F;h3&gt;
+&lt;p&gt;Someday, I&#x27;ll figure out hoot get this blogging software to auto-populate metric&#x2F;imperial and serving counts automatically.  Until then, recording some useful conversions here.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;why&quot;&gt;Why?&lt;&#x2F;h3&gt;
+&lt;p&gt;I scale up&#x2F;down recipes all the time.  It is a royal pain using imperial measure (get it?).
+Metric in the kitchen makes so much more sense, not to mention the whole volume vs weight measure nonsense.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;1 Cup sugar = 200gr&lt;&#x2F;li&gt;
+&lt;li&gt;1 Gallon = 3.8L&lt;&#x2F;li&gt;
+&lt;li&gt;Pint jar = 500ml&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Wine</title>
+          <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/wine/</link>
+          <guid>https://prjctgeek.github.io/foodie/wine/</guid>
+          <description>&lt;p&gt;Home-made wine is a new area for me, so this will be an over-all place to record lessons.
+It reminds me quite a bit of my dad&#x27;s sourdough starter though.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Garlic Bread</title>
+          <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/garlicbread/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/garlicbread/</guid>
+          <description>&lt;p&gt;Served as a common side, it&#x27;s crunchy, cheesy, and garlicky&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Sauerkraut</title>
+          <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/saurkrat/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/saurkrat/</guid>
+          <description>&lt;p&gt;Not for everyone.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Quiche</title>
+          <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/quiche/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/quiche/</guid>
+          <description>&lt;p&gt;A crispy puff-pastry crust helps sell this.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Kouign-Amann</title>
+          <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/kouign-amann/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/kouign-amann/</guid>
+          <description>&lt;p&gt;Fancy pastries, with a caramel bottom&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Salmon Rangoon</title>
+          <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/salmonrangoon/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/salmonrangoon/</guid>
+          <description>&lt;p&gt;A much more approachable version of a PF Chang&#x27;s appetizer.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Bacon and Artichoke Frittata</title>
+          <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/frittata/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/frittata/</guid>
+          <description>&lt;p&gt;Similar to quiche, but without the crust.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Guidelines</title>
+          <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/guidelines/</link>
+          <guid>https://prjctgeek.github.io/foodie/guidelines/</guid>
+          <description>&lt;h2 id=&quot;over-arching-elements-to-avoid&quot;&gt;Over-arching elements to avoid&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;sauces&quot;&gt;Sauces&lt;&#x2F;h4&gt;
+&lt;p&gt;This is usually the first thing others notice about my families eating habits- when ordering salad at a restaurant,
+right off the bat, dry salad, with no dressing.  Nothing. Sometimes it means not having salad, if the place has pre-mixed  greens.
+It&#x27;s not that they &amp;quot;just don&#x27;t like dressing&amp;quot;, there will be gagging.
+Many times, it takes a few iterations to correct the order.  It&#x27;s exhausting.  It&#x27;s hard to explain to front of house this isn&#x27;t an allergy, it&#x27;s a texture thing.&lt;&#x2F;p&gt;
+&lt;p&gt;Another area where this becomes an issue is dishes where the meat is the star of the show, but much of the flavor comes from a sauce.
+For example, pulled pork.  It&#x27;s often on the dry side, and you pick the sauce based on your preferences to add both flavor and a texture contrast.
+When no sauce is acceptable, because of it&#x27;s texture, flavor must be imparted into the meat without a sauce. This is deceptively difficult when adapting many recipes to the texture sensitive. &lt;&#x2F;p&gt;
+&lt;p&gt;The tag for avoiding this: &lt;a href=&quot;&#x2F;tags&#x2F;dry&quot;&gt;dry&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;acidity-and-fermentation&quot;&gt;Acidity and fermentation&lt;&#x2F;h4&gt;
+&lt;p&gt;For the purpose of the guidelines, foods can have &lt;em&gt;some&lt;&#x2F;em&gt; acid, it just can&#x27;t be front and center.  Because of the &#x27;no sauce&#x27; guideline, this is actually one of the easier items
+to leave out.  In practice, this means no pickles, no relish, and tomato sauce can&#x27;t have too much vinegar.&lt;&#x2F;p&gt;
+&lt;p&gt;Throughout this site, you&#x27;ll see the tag: &#x27;&lt;a href=&quot;&#x2F;tags&#x2F;gross&quot;&gt;gross&lt;&#x2F;a&gt;&#x27;, to denote any recipe that doesn&#x27;t follow these guidelines.&lt;&#x2F;p&gt;
+&lt;p&gt;The tags to find this is &lt;a href=&quot;&#x2F;tags&#x2F;acidic&quot;&gt;acidic&lt;&#x2F;a&gt;, but there is no tag for avoiding it as most of the recipes are low acid.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;mealy-creamy-squishy&quot;&gt;Mealy, creamy, &lt;a href=&quot;&#x2F;tags&#x2F;squishy&quot;&gt;squishy&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;p&gt;This one is hard to pin down.  I first came across it when trying to serve humus.  Nope, too creamy. OK, let&#x27;s try straight up
+garbanzo beans, no spice, no acid.  Nope: &amp;quot;Texture is wrong&amp;quot;.  Testing what made beans objectionable, it seems to correlate to size.
+Large beans, like garbanzo beans, kidney beans, etc, have a &amp;quot;squishy&amp;quot;, &amp;quot;mealy&amp;quot; internal texture that seems to not be present in smaller beans.
+So black beans were fine.  Retried beans are a gray area, with a layer of cheese or with crispy chips, it might be OK.&lt;&#x2F;p&gt;
+&lt;p&gt;Mashed squash (I like delectica) is a no go. How is this different from mashed potato texture wise? I still don&#x27;t get this one.&lt;&#x2F;p&gt;
+&lt;p&gt;Mashed potatoes are OK. No idea why, with enough butter and cream to make them whippable, they should be too creamy.
+One kid doesn&#x27;t like the texture of rice, while the other one doesn&#x27;t like potatoes that have skin on, or are sliced too large.&lt;&#x2F;p&gt;
+&lt;p&gt;Shrimp.  My wife&#x27;s says the little &amp;quot;popping&amp;quot; sensation of biting shrimp is just too much.  One kid says that a really heavy breading counter-acts this, but my usual strategy is cutting them in half lengthwise and over-cooking them, making  them &amp;quot;firm&amp;quot;.&lt;&#x2F;p&gt;
+&lt;p&gt;Fresh tomatoes are too runny&#x2F;squish in the middle, and often slightly acidic, so two strikes against.&lt;&#x2F;p&gt;
+&lt;p&gt;As long as it&#x27;s in the background flavor wise, Mushrooms&#x27; texture can be masked by chopping it very small or just turning it into a paste in the blender. Using it as a bread substitue or as a base, like in stuffed mushrooms, is a hard no.&lt;&#x2F;p&gt;
+&lt;p&gt;As many foodies recently, I&#x27;ve experimented with cooking using a &lt;a href=&quot;https:&#x2F;&#x2F;prjctgeek.github.io&#x2F;foodie&#x2F;guidelines&#x2F;sousvide&quot;&gt;sous-vide&lt;&#x2F;a&gt; (hot water bath) setup.  My family will not tolerate the texture of meat
+straight out of the sous-vide; too &amp;quot;squishy&amp;quot;.&lt;&#x2F;p&gt;
+&lt;p&gt;Throughout this site, you&#x27;ll see the tag: &#x27;&lt;a href=&quot;&#x2F;tags&#x2F;squishy&quot;&gt;squishy&lt;&#x2F;a&gt;&#x27;, to denote foods in this category and &#x27;&lt;a href=&quot;&#x2F;tags&#x2F;crunchy&quot;&gt;crunchy&lt;&#x2F;a&gt;&#x27; to avoid it.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;spicy-or-strong-flavors&quot;&gt;Spicy or strong flavors&lt;&#x2F;h4&gt;
+&lt;p&gt;This area crosses over with acidity. Of course pickles are out of the question, but even mixing in elements like capers on a sandwich or a
+salty kalamata olive is a no go. Indian food, Korean food, and many other cuisine are frustratingly out of bounds with this guideline.&lt;&#x2F;p&gt;
+&lt;p&gt;Many fish are also in this category, as the smell is just too much. Cod in crunchy fish and chips is fine. Salmon is pushing it, and must be cooked without the skin, or smoked.&lt;&#x2F;p&gt;
+&lt;p&gt;Earthy spices, like cumin are a hard no.&lt;&#x2F;p&gt;
+&lt;p&gt;The tag &lt;a href=&quot;&#x2F;tags&#x2F;strong&quot;&gt;strong&lt;&#x2F;a&gt; is used for this guideline, but most of the recipes here are on the bland side, so there is no tag for that.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;unexplained-exceptions&quot;&gt;Unexplained Exceptions&lt;&#x2F;h4&gt;
+&lt;p&gt;First exception to these guidelines I still haven&#x27;t been able to figure out is &lt;a href=&quot;&#x2F;recipes&#x2F;artichoke-dip&quot;&gt;artichoke dip&lt;&#x2F;a&gt;.  It&#x27;s mostly cream cheese, with jalapeno&#x27;s and artichoke hearts.
+It seems to violate creamy&#x2F;saucy, but it gets devoured whenever we make it.&lt;&#x2F;p&gt;
+&lt;p&gt;The other notable exception is mac and cheese.  The cheesy creamy sauce should be off limits.  My working theory is that some of these
+specific foods have a strong, positive childhood memory or connection.  Does that mean some of these objects aren&#x27;t in any way related to being on the 
+spectrum and are instead just hang-ups from a bad experience?&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Artichoke dip</title>
+          <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/artichoke-dip/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/artichoke-dip/</guid>
+          <description>&lt;p&gt;A quintessential potluck item from decades past, it&#x27;s easy to assemble, travels well and can be re-heated easily.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Barbacoa</title>
+          <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/barbacoa/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/barbacoa/</guid>
+          <description>&lt;p&gt;We affectionately refer to this as &amp;quot;Mexican pulled pork&amp;quot;. My take is a little more work than the traditional, but packs in even more smoky goodness.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Hamburgers</title>
+          <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/hamburgers/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/hamburgers/</guid>
+          <description>&lt;p&gt;Why is something so simple and well understood as a Hamburger here?&lt;&#x2F;p&gt;
+&lt;p&gt;Well, referring to the &lt;a href=&quot;&#x2F;guidelines&quot;&gt;guidelines&lt;&#x2F;a&gt;, we&#x27;re not going to put sauce, Mayonnaise, relish, etc on these.  How do we turn a dry hockey-puck of meat into something tasty as-is?&lt;&#x2F;p&gt;
+&lt;p&gt;My solution is two fold: add fat and flavor to the meat then use sous-vide.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Sriracha Cucumber Pickles</title>
+          <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/sriratcha-cucumber-pickles/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/sriratcha-cucumber-pickles/</guid>
+          <description>&lt;p&gt;Excellent addition to a salad.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Sous Vide</title>
+          <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/sousvide/</link>
+          <guid>https://prjctgeek.github.io/foodie/sousvide/</guid>
+          <description>&lt;h2 id=&quot;what&quot;&gt;What ?&lt;&#x2F;h2&gt;
+&lt;p&gt;Sous Vide is putting food in a plastic bag (usually under vacuum) and placing in a water bath to cook.
+The heater&#x2F;controller has a temperature set point for the water, and unlike in the oven, the food 
+will never exceed that temperature.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;why-would-you-do-this&quot;&gt;Why would you do this?&lt;&#x2F;h2&gt;
+&lt;p&gt;It seals in moisture and flavors, it prevents over-cooking and allows you to pre-cook with precision.
+Also, it scales up really well.  I have come home from the store on the weekend and pre-cooked 4 meals worth of chicken and 1 meal of &lt;a href=&quot;https:&#x2F;&#x2F;prjctgeek.github.io&#x2F;foodie&#x2F;sousvide&#x2F;recipes&#x2F;hamburgers&quot;&gt;hamburgers&lt;&#x2F;a&gt;
+in the same water bath, cutting week-day prep time dramatically.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;cons&quot;&gt;Cons&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;It&#x27;s a pre-cook method, not a short cut&lt;&#x2F;li&gt;
+&lt;li&gt;it only saves you time at meal prep if you do it ahead of time, in one vat of water.&lt;&#x2F;li&gt;
+&lt;li&gt;The texture is just wrong.  Meat will always need a sear in a very hot pan.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;general-observations-experience&quot;&gt;General observations&#x2F;experience&lt;&#x2F;h3&gt;
+&lt;p&gt;Most sous-vide recipes focus on lean meat, there are other uses...but this is where sous vide shines.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;good&quot;&gt;Good&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Pork loin: 56c for 1 hour and pan sear medallions for 2 minutes a side to get the texture right&lt;&#x2F;li&gt;
+&lt;li&gt;Steak: 55C with a 2 minutes sear per side when ready to eat. For those wanting well-done, consider slicing up the steak a bit.&lt;&#x2F;li&gt;
+&lt;li&gt;Hollandaise: butter and egg yoke at 65C for 20minutes, then blend&lt;&#x2F;li&gt;
+&lt;li&gt;Pasteurized eggs: 56C for 30 minutes.  Safe to eat raw cookie dough is the best.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;prjctgeek.github.io&#x2F;foodie&#x2F;sousvide&#x2F;recipes&#x2F;hamburgers&quot;&gt;Hamburgers&lt;&#x2F;a&gt;: 55C for one hour&lt;&#x2F;li&gt;
+&lt;li&gt;Chicken breasts&#x2F;thighs: 55C gets you close enough, with a couple minutes of pan time for the right texture&lt;&#x2F;li&gt;
+&lt;li&gt;Mash potatoes: 90c for 2hours (not worth it, in my opinion)&lt;&#x2F;li&gt;
+&lt;li&gt;Blanched Peaches: 80c for 2minutes.  This is to loosen the skins for canning.&lt;&#x2F;li&gt;
+&lt;li&gt;Corn: 82C for 30 minutes. This was surprisingly good&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;the-nope-list&quot;&gt;The NOPE list&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Don&#x27;t sous vide fish.  It&#x27;s like micro-waving it. Just don&#x27;t.&lt;&#x2F;li&gt;
+&lt;li&gt;Lamb leg: 54C for 24 hours - do not repeat, tough, needs fat melting heat&lt;&#x2F;li&gt;
+&lt;li&gt;Pork Belly&#x2F;Bacon: NO. this meat needs fat rendering heat&lt;&#x2F;li&gt;
+&lt;li&gt;Turkey: 63.5 for 24 hours.  Not worth it, Smoke&#x2F;roasting&#x2F;deep fry still better.&lt;&#x2F;li&gt;
+&lt;li&gt;Notice a pattern?  anything that usually is good low and slow cooked, won&#x27;t be with sous-vide.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Pulled Pork</title>
+          <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/pulledpork/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/pulledpork/</guid>
+          <description>&lt;p&gt;In the overview we use pulled pork as an example of &amp;quot;usually dry&amp;quot; food.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Ratatouille</title>
+          <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/ratatouille/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/ratatouille/</guid>
+          <description>&lt;p&gt;This goes over well as a vegetable side for people who wouldn&#x27;t normally eat squash.
+And it&#x27;s pretty, so major points at a pot-luck or Turkey day.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Bread pudding</title>
+          <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/bread-pudding/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/bread-pudding/</guid>
+          <description>&lt;p&gt;This was a Thanksgiving staple when the kids were little.  The dried fruit
+adds texture and breaks up the heaviness.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Granola</title>
+          <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/granola/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/granola/</guid>
+          <description>&lt;p&gt;My take on granola, usually just mixed 50&#x2F;50 with plain Greek yogurt.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Pumpkin Pie</title>
+          <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/pumpkinpie/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/pumpkinpie/</guid>
+          <description>&lt;p&gt;Moving old recipe cards to this site I came across this pie recipe.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Pumpkin Bread</title>
+          <pubDate>Sat, 21 Jun 1997 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/pumpkinbread/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/pumpkinbread/</guid>
+          <description>&lt;p&gt;A little texture and extra sweetness helps sell it.
+Try cream cheese instead of butter on top gives a tang for the foodies.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Peach Wine&#x2F;Jack</title>
+          <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://prjctgeek.github.io/foodie/recipes/peach-jack/</link>
+          <guid>https://prjctgeek.github.io/foodie/recipes/peach-jack/</guid>
+          <description>&lt;p&gt;&amp;quot;Jacking&amp;quot;, or freeze distillation, creates a fortified wine, which in the case of peaches, really preserves the taste of summer.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
