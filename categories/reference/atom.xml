@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Cooking for sensory averse - reference</title>
+    <subtitle>Some recipes for sensory averse, and those coping</subtitle>
+    <link href="https://prjctgeek.github.io/foodie/categories/reference/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://prjctgeek.github.io/foodie"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2022-08-20T00:00:00+00:00</updated>
+    <id>https://prjctgeek.github.io/foodie/categories/reference/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Bibliography</title>
+        <published>2022-08-20T00:00:00+00:00</published>
+        <updated>2022-08-20T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/biblography/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/biblography/</id>
+        
+        <content type="html">&lt;h3 id=&quot;a-m&quot;&gt;A-M&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;n-z&quot;&gt;N-Z&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.com&#x2F;Salt-Fat-Acid-Heat-Mastering-ebook&#x2F;dp&#x2F;B01HMXV0UQ&#x2F;ref=sr_1_1?crid=2161LOJRKFXM9&amp;amp;keywords=salt%2C+fat%2C+acid%2C+heat&amp;amp;qid=1651765830&amp;amp;sprefix=salt%2C+fat%2Caps%2C268&amp;amp;sr=8-1&quot;&gt;&amp;quot;Salt, fat, acid, heat&amp;quot;&lt;&#x2F;a&gt;~~&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>

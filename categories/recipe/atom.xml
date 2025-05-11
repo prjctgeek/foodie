@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Cooking for sensory averse - recipe</title>
+    <subtitle>Some recipes for sensory averse, and those coping</subtitle>
+    <link href="https://prjctgeek.github.io/foodie/categories/recipe/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://prjctgeek.github.io/foodie"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-05-11T00:00:00+00:00</updated>
+    <id>https://prjctgeek.github.io/foodie/categories/recipe/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Cream Puffs - with Strawberry and Rhubarb</title>
+        <published>2025-05-11T00:00:00+00:00</published>
+        <updated>2025-05-11T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/recipes/cream-puffs/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/recipes/cream-puffs/</id>
+        
+        <summary type="html">&lt;p&gt;I grew up in the Pacific Northwest, and one of my favorite seasonal food memories is the
+juxtaposition of sweet strawberries and tart rhubarb.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>White bean soup</title>
+        <published>2023-10-22T00:00:00+00:00</published>
+        <updated>2023-10-22T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/recipes/whitebeansoup/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/recipes/whitebeansoup/</id>
+        
+        <summary type="html">&lt;p&gt;We got some smoked pork neck bones from a friend and I thought I&#x27;d take a crack at making soup with them.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Tuna Melt</title>
+        <published>2023-06-01T00:00:00+00:00</published>
+        <updated>2023-06-01T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/recipes/tunamelt/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/recipes/tunamelt/</id>
+        
+        <summary type="html">&lt;p&gt;Pandemic comfort food for me.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Chicken Involtini</title>
+        <published>2023-04-20T00:00:00+00:00</published>
+        <updated>2023-04-20T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/recipes/chicken-involtini/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/recipes/chicken-involtini/</id>
+        
+        <summary type="html">&lt;p&gt;Mini meat rolls.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Black Bean Chili</title>
+        <published>2023-02-25T00:00:00+00:00</published>
+        <updated>2023-02-25T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/recipes/chilli/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/recipes/chilli/</id>
+        
+        <summary type="html">&lt;p&gt;Nothing terribly special about this Chili, other than the lack of spice.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Garlic Bread</title>
+        <published>2022-06-23T00:00:00+00:00</published>
+        <updated>2022-06-23T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/recipes/garlicbread/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/recipes/garlicbread/</id>
+        
+        <summary type="html">&lt;p&gt;Served as a common side, it&#x27;s crunchy, cheesy, and garlicky&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Sauerkraut</title>
+        <published>2022-06-23T00:00:00+00:00</published>
+        <updated>2022-06-23T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/recipes/saurkrat/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/recipes/saurkrat/</id>
+        
+        <summary type="html">&lt;p&gt;Not for everyone.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Quiche</title>
+        <published>2022-06-10T00:00:00+00:00</published>
+        <updated>2022-06-10T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/recipes/quiche/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/recipes/quiche/</id>
+        
+        <summary type="html">&lt;p&gt;A crispy puff-pastry crust helps sell this.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Pear Jam</title>
+        <published>2022-06-01T00:00:00+00:00</published>
+        <updated>2022-06-01T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/recipes/pear-jam/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/recipes/pear-jam/</id>
+        
+        <summary type="html">&lt;p&gt;Low sugar pear jam is a wonderfully subtle reminder of late summer.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Kouign-Amann</title>
+        <published>2022-05-27T00:00:00+00:00</published>
+        <updated>2022-05-27T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/recipes/kouign-amann/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/recipes/kouign-amann/</id>
+        
+        <summary type="html">&lt;p&gt;Fancy pastries, with a caramel bottom&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Salmon Rangoon</title>
+        <published>2022-05-27T00:00:00+00:00</published>
+        <updated>2022-05-27T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/recipes/salmonrangoon/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/recipes/salmonrangoon/</id>
+        
+        <summary type="html">&lt;p&gt;A much more approachable version of a PF Chang&#x27;s appetizer.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Bacon and Artichoke Frittata</title>
+        <published>2022-05-19T00:00:00+00:00</published>
+        <updated>2022-05-19T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/recipes/frittata/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/recipes/frittata/</id>
+        
+        <summary type="html">&lt;p&gt;Similar to quiche, but without the crust.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Artichoke dip</title>
+        <published>2022-05-03T00:00:00+00:00</published>
+        <updated>2022-05-03T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/recipes/artichoke-dip/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/recipes/artichoke-dip/</id>
+        
+        <summary type="html">&lt;p&gt;A quintessential potluck item from decades past, it&#x27;s easy to assemble, travels well and can be re-heated easily.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Barbacoa</title>
+        <published>2022-05-03T00:00:00+00:00</published>
+        <updated>2022-05-03T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/recipes/barbacoa/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/recipes/barbacoa/</id>
+        
+        <summary type="html">&lt;p&gt;We affectionately refer to this as &amp;quot;Mexican pulled pork&amp;quot;. My take is a little more work than the traditional, but packs in even more smoky goodness.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Hamburgers</title>
+        <published>2022-05-03T00:00:00+00:00</published>
+        <updated>2022-05-03T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/recipes/hamburgers/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/recipes/hamburgers/</id>
+        
+        <summary type="html">&lt;p&gt;Why is something so simple and well understood as a Hamburger here?&lt;&#x2F;p&gt;
+&lt;p&gt;Well, referring to the &lt;a href=&quot;&#x2F;guidelines&quot;&gt;guidelines&lt;&#x2F;a&gt;, we&#x27;re not going to put sauce, Mayonnaise, relish, etc on these.  How do we turn a dry hockey-puck of meat into something tasty as-is?&lt;&#x2F;p&gt;
+&lt;p&gt;My solution is two fold: add fat and flavor to the meat then use sous-vide.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Sriracha Cucumber Pickles</title>
+        <published>2022-05-03T00:00:00+00:00</published>
+        <updated>2022-05-03T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/recipes/sriratcha-cucumber-pickles/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/recipes/sriratcha-cucumber-pickles/</id>
+        
+        <summary type="html">&lt;p&gt;Excellent addition to a salad.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Pulled Pork</title>
+        <published>2021-01-01T00:00:00+00:00</published>
+        <updated>2021-01-01T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/recipes/pulledpork/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/recipes/pulledpork/</id>
+        
+        <summary type="html">&lt;p&gt;In the overview we use pulled pork as an example of &amp;quot;usually dry&amp;quot; food.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Ratatouille</title>
+        <published>2014-01-01T00:00:00+00:00</published>
+        <updated>2014-01-01T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/recipes/ratatouille/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/recipes/ratatouille/</id>
+        
+        <summary type="html">&lt;p&gt;This goes over well as a vegetable side for people who wouldn&#x27;t normally eat squash.
+And it&#x27;s pretty, so major points at a pot-luck or Turkey day.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Bread pudding</title>
+        <published>2002-01-01T00:00:00+00:00</published>
+        <updated>2002-01-01T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/recipes/bread-pudding/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/recipes/bread-pudding/</id>
+        
+        <summary type="html">&lt;p&gt;This was a Thanksgiving staple when the kids were little.  The dried fruit
+adds texture and breaks up the heaviness.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Granola</title>
+        <published>2001-01-01T00:00:00+00:00</published>
+        <updated>2001-01-01T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/recipes/granola/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/recipes/granola/</id>
+        
+        <summary type="html">&lt;p&gt;My take on granola, usually just mixed 50&#x2F;50 with plain Greek yogurt.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Pumpkin Pie</title>
+        <published>2000-01-01T00:00:00+00:00</published>
+        <updated>2000-01-01T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/recipes/pumpkinpie/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/recipes/pumpkinpie/</id>
+        
+        <summary type="html">&lt;p&gt;Moving old recipe cards to this site I came across this pie recipe.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Pumpkin Bread</title>
+        <published>1997-06-21T00:00:00+00:00</published>
+        <updated>1997-06-21T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/recipes/pumpkinbread/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/recipes/pumpkinbread/</id>
+        
+        <summary type="html">&lt;p&gt;A little texture and extra sweetness helps sell it.
+Try cream cheese instead of butter on top gives a tang for the foodies.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Peach Wine&#x2F;Jack</title>
+        <published>1970-01-01T00:00:00+00:00</published>
+        <updated>1970-01-01T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/recipes/peach-jack/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/recipes/peach-jack/</id>
+        
+        <summary type="html">&lt;p&gt;&amp;quot;Jacking&amp;quot;, or freeze distillation, creates a fortified wine, which in the case of peaches, really preserves the taste of summer.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

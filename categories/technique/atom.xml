@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Cooking for sensory averse - technique</title>
+    <subtitle>Some recipes for sensory averse, and those coping</subtitle>
+    <link href="https://prjctgeek.github.io/foodie/categories/technique/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://prjctgeek.github.io/foodie"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2022-08-20T00:00:00+00:00</updated>
+    <id>https://prjctgeek.github.io/foodie/categories/technique/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Canning</title>
+        <published>2022-08-20T00:00:00+00:00</published>
+        <updated>2022-08-20T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/canning/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/canning/</id>
+        
+        <content type="html">&lt;h3 id=&quot;lost-art&quot;&gt;Lost art?&lt;&#x2F;h3&gt;
+&lt;p&gt;There are many articles about canning, and I mostly learned it from my mother&#x2F;grandmother, so surely it&#x27;s not completely lost?&lt;&#x2F;p&gt;
+&lt;p&gt;But when I talk about doing home canning at work&#x2F;social interactions, everyone seems surprised at this knowledge.&lt;&#x2F;p&gt;
+&lt;p&gt;For the purposes of texture though, canned food is usually a hard pass, unless it is an ingredient to something else.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;favorite-recipes-that-need-recording&quot;&gt;Favorite recipes that need recording&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;recipes&#x2F;pear-jam&#x2F;&quot;&gt;Pear Jam&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Strawberry-rhubarb jam is my childhood favorite, and I still make it all the time.&lt;&#x2F;li&gt;
+&lt;li&gt;Carrot pickles&lt;&#x2F;li&gt;
+&lt;li&gt;Chutney.  Rhubarb Chutney is a new favorite of mine.&lt;&#x2F;li&gt;
+&lt;li&gt;Pickles&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Conversions</title>
+        <published>2022-08-20T00:00:00+00:00</published>
+        <updated>2022-08-20T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/conversions/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/conversions/</id>
+        
+        <content type="html">&lt;h3 id=&quot;what&quot;&gt;What ?&lt;&#x2F;h3&gt;
+&lt;p&gt;Someday, I&#x27;ll figure out hoot get this blogging software to auto-populate metric&#x2F;imperial and serving counts automatically.  Until then, recording some useful conversions here.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;why&quot;&gt;Why?&lt;&#x2F;h3&gt;
+&lt;p&gt;I scale up&#x2F;down recipes all the time.  It is a royal pain using imperial measure (get it?).
+Metric in the kitchen makes so much more sense, not to mention the whole volume vs weight measure nonsense.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;1 Cup sugar = 200gr&lt;&#x2F;li&gt;
+&lt;li&gt;1 Gallon = 3.8L&lt;&#x2F;li&gt;
+&lt;li&gt;Pint jar = 500ml&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Wine</title>
+        <published>2022-08-20T00:00:00+00:00</published>
+        <updated>2022-08-20T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/wine/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/wine/</id>
+        
+        <content type="html">&lt;p&gt;Home-made wine is a new area for me, so this will be an over-all place to record lessons.
+It reminds me quite a bit of my dad&#x27;s sourdough starter though.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Sous Vide</title>
+        <published>2022-05-03T00:00:00+00:00</published>
+        <updated>2022-05-03T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://prjctgeek.github.io/foodie/sousvide/" type="text/html"/>
+        <id>https://prjctgeek.github.io/foodie/sousvide/</id>
+        
+        <content type="html">&lt;h2 id=&quot;what&quot;&gt;What ?&lt;&#x2F;h2&gt;
+&lt;p&gt;Sous Vide is putting food in a plastic bag (usually under vacuum) and placing in a water bath to cook.
+The heater&#x2F;controller has a temperature set point for the water, and unlike in the oven, the food 
+will never exceed that temperature.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;why-would-you-do-this&quot;&gt;Why would you do this?&lt;&#x2F;h2&gt;
+&lt;p&gt;It seals in moisture and flavors, it prevents over-cooking and allows you to pre-cook with precision.
+Also, it scales up really well.  I have come home from the store on the weekend and pre-cooked 4 meals worth of chicken and 1 meal of &lt;a href=&quot;https:&#x2F;&#x2F;prjctgeek.github.io&#x2F;foodie&#x2F;sousvide&#x2F;recipes&#x2F;hamburgers&quot;&gt;hamburgers&lt;&#x2F;a&gt;
+in the same water bath, cutting week-day prep time dramatically.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;cons&quot;&gt;Cons&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;It&#x27;s a pre-cook method, not a short cut&lt;&#x2F;li&gt;
+&lt;li&gt;it only saves you time at meal prep if you do it ahead of time, in one vat of water.&lt;&#x2F;li&gt;
+&lt;li&gt;The texture is just wrong.  Meat will always need a sear in a very hot pan.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;general-observations-experience&quot;&gt;General observations&#x2F;experience&lt;&#x2F;h3&gt;
+&lt;p&gt;Most sous-vide recipes focus on lean meat, there are other uses...but this is where sous vide shines.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;good&quot;&gt;Good&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Pork loin: 56c for 1 hour and pan sear medallions for 2 minutes a side to get the texture right&lt;&#x2F;li&gt;
+&lt;li&gt;Steak: 55C with a 2 minutes sear per side when ready to eat. For those wanting well-done, consider slicing up the steak a bit.&lt;&#x2F;li&gt;
+&lt;li&gt;Hollandaise: butter and egg yoke at 65C for 20minutes, then blend&lt;&#x2F;li&gt;
+&lt;li&gt;Pasteurized eggs: 56C for 30 minutes.  Safe to eat raw cookie dough is the best.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;prjctgeek.github.io&#x2F;foodie&#x2F;sousvide&#x2F;recipes&#x2F;hamburgers&quot;&gt;Hamburgers&lt;&#x2F;a&gt;: 55C for one hour&lt;&#x2F;li&gt;
+&lt;li&gt;Chicken breasts&#x2F;thighs: 55C gets you close enough, with a couple minutes of pan time for the right texture&lt;&#x2F;li&gt;
+&lt;li&gt;Mash potatoes: 90c for 2hours (not worth it, in my opinion)&lt;&#x2F;li&gt;
+&lt;li&gt;Blanched Peaches: 80c for 2minutes.  This is to loosen the skins for canning.&lt;&#x2F;li&gt;
+&lt;li&gt;Corn: 82C for 30 minutes. This was surprisingly good&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;the-nope-list&quot;&gt;The NOPE list&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Don&#x27;t sous vide fish.  It&#x27;s like micro-waving it. Just don&#x27;t.&lt;&#x2F;li&gt;
+&lt;li&gt;Lamb leg: 54C for 24 hours - do not repeat, tough, needs fat melting heat&lt;&#x2F;li&gt;
+&lt;li&gt;Pork Belly&#x2F;Bacon: NO. this meat needs fat rendering heat&lt;&#x2F;li&gt;
+&lt;li&gt;Turkey: 63.5 for 24 hours.  Not worth it, Smoke&#x2F;roasting&#x2F;deep fry still better.&lt;&#x2F;li&gt;
+&lt;li&gt;Notice a pattern?  anything that usually is good low and slow cooked, won&#x27;t be with sous-vide.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>
