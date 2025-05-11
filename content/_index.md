@@ -5,12 +5,15 @@ date = 2022-05-01
 
 ## Hangups
 
-My wife is a super picky eater.  I love to cook as a hobby, and figured I was up for the challenge.  We had kids.
-Kids have mostly the same food hang-ups. "Learned behaviors" I hear you muttering.  No, some of this pickiness was baked in.  Some of my co-workers in tech, anecdotally, have similar food  issues.  We started coming up with some ["guidelines"](/guidelines) to help me make meals that weren't gag-inducing. This site is just a random collection of some of the recipes that went over well and some that didn't.
+My family is super picky.  I love to cook as a hobby, and figured I was up for the challenge.
+Some of my co-workers in tech, anecdotally, have similar food issues.
+We started coming up with some ["guidelines"](/guidelines) to help me make meals that weren't gag-inducing.
+This site started out as a way for me to process all the restrictions, but has since become just a place for me to collect
+ recipes I've come up with, or modifications to familiar favorites.
 
-On my journey to understand what's going on, I came across the term to capture this: "sensory aversion".
+On my journey to understand what's going on with the picky eaters in my life, I came across the term to capture this: "sensory aversion".
+
 ### Sensory Aversion
-
 
 There seems to be a correlation between food texture issues and neurodivergence; affecting those that might not (yet) think of themselves as neurodivergent.
 Coming to terms with this idea was helpful for me. Here are some more articles on the topic:
