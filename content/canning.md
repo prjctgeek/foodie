@@ -19,7 +19,8 @@ For the purposes of texture though, canned food is usually a hard pass, unless i
 
 ### Favorite recipes that need recording
 
-- Jam. Strawberry-rhubarb is my childhood favorite, and I still make it all the time.
+- [Pear Jam](../recipes/pear-jam/)
+- Strawberry-rhubarb jam is my childhood favorite, and I still make it all the time.
 - Carrot pickles
 - Chutney.  Rhubarb Chutney is a new favorite of mine.
 - Pickles
